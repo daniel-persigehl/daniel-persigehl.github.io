@@ -1,0 +1,7 @@
+#+TITLE: Daniel先生のブログ
+
+- [[file:about-me.org][About Daniel]]
+- [[file:home.org][Home]]
+- [[file:studiaclassica.org][STVDIA·CLASSICA]]
+- [[file:shima-uta.org][Shima-Uta]]
+- [[file:about-site.org][About This Site]]

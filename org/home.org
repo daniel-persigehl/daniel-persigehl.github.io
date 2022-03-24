@@ -1,0 +1,17 @@
+#+TITLE: Daniel先生のブログ
+Welcome to Daniel Sensei's Blog.
+This is the homepage.
+* Navigation
+This is the [[file:about-me.org][about]] page
+* English LATINA 日本語 Ἑλληνική Français 島口
+Fear of embarrassment has never stopped me from learning a new language. Maybe reading about my story can help you learn one too.
+[LEARN MORE]
+* Latin and Greek
+Languages, like wines, grow more refined with age, and these are among the oldest of all.
+* Historical Music
+Join me as I learn about traditional forms of music like Gregorian chant or Japanese [[file:shima-uta.org][/shima-uta/]].
+* Technology
+It has often been said that there is nihil sub sole novum but the personal computer sure does come close. Let’s learn about them together.
+* About This Site
+This site was built using Emacs' org-mode suite.
+

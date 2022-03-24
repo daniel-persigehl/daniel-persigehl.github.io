@@ -1,0 +1,3 @@
+#+TITLE: About This Site
+* About This Site
+This site was entirely written within and built using Emacs' org-mode suite and is hosted by Github.

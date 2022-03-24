@@ -1,0 +1,110 @@
+#+TITLE: 奄美の島唄
+* What is Shima-Uta?
+{ [[yt:_CMEKV-meSU?t=70]] }
+
+
+Kizuki Minami performs traditional folk song “Yoi Sura Bushi” on /Meikyoku Nippon/.
+
+When people think of the traditional Japanese banjo, most associate it with the fast-paced and instrumental [[https://www.youtube.com/watch?v=m-9bVMKlfJM][/Tsugaru/ style]] or the traditional [][/naga-uta/] of Japanese theater such as [[https://youtu.be/Dk0QIGJKxoA?t=572][/kabuki/ opera]] or [[https://www.youtube.com/watch?v=Gz-pg8kq_Dk][/bunraku/ puppet theater]]. However, there is a great variety of styles that you may not know about. Along with other instruments such as the [[https://www.youtube.com/watch?v=JDTp_YQizqE][/koto/]], the [[https://www.youtube.com/watch?v=Sv2je9arNz4][/shakuhachi/ flute]], and the [[https://www.youtube.com/watch?v=lOo5O3qyqIk][/taiko/ drum]], the shamisen has a long history and each region of Japan has different traditions. I consider myself truly blessed to be able to tell you about the genre of SHIMA-UTA.
+
+#+begin_verse
+When sailing out to the sea, we pray, /yoi sura/
+We pray she will keep us safe, /yoi sura/
+	---“Yoi Sura Bushi,” trans. Miyata Tomoko
+#+end_verse
+
+Shima-uta is the traditional folk music of the Amami archipelago stretching between Kyushu and Okinawa prefecture. Culturally and linguistically distinct from Japan for much of its history, the islands only came under the rule of the Satsuma clan in the early 1600’s. Before that, they were part of the Ryukyu Kingdom (known today as Okinawa). This mixed heritage is reflected in its folk music.
+
+Despite being widely considered a form of Japanese, the Ryukyuan dialects are mutually unintelligible with standard Japanese and linguists consider them to be a language continuum related to but not descended from Japanese, and to be the only other extant members of the Japonic language family. With the advent of modern education in the late 19th century, the dialects were suppressed in favor of Standard Japanese, leading to a sharp decline in speakers over the 20th century. Revitalization efforts starting in the late 20th century have seen decent results for the Okinawan subfamily, but not for Amami, where the speech is used only by the elderly.
+
+[[yt:CCZK9bDM5J4]]
+Atari Kousuke, Hajime Chitose, et al. singing “Asabana Bushi”
+Asabana Bushi is the traditional kick off to a shima-uta performance, sung in the native tongues of the islanders. Like many other songs, the ballad concerns two lovers eager to meet up again and is usually sung by alternating male and female singers. But the lyrics are part of a dialogue with the audience; travel was historically dangerous and expensive, so it would be a long time before someone leaving the village (shima) comes back again, if ever. Travel outside of the shima was so rare that even neighboring villages had different dialects and two people from the same island might have difficulty understanding each other.
+
+#+begin_verse
+I’m dying to see you again
+(/Yoi sa, yoi yoi/)
+If we meet up again,
+How soon can we meet?
+	---“Asabana Bushi”
+#+end_verse
+
+This is why they’re called shima-uta / shimaguchi (lit. /village songs / speech/). This is most apparent on Amami-Oshima island which, despite being a single island, has been divided into [[https://en.wikipedia.org/wiki/Amami_languages][multiple language clusters]]. As with many folk traditions around the world, there is no one set of correct lyrics or arrangements because they are changed by the itinerant musicians to suit the occasion as they travel around the archipelago. Popular songs like “Asabana Bushi” (Morning Flower Melody) evolved wildly different tunes and lyrics as minstrels spread the song to different villages throughout the archipelago. Compare “[[https://www.youtube.com/watch?v=CCZK9bDM5J4][Asabana Bushi]]” to “[[https://www.youtube.com/watch?v=Pudy9odR6E0][Chukkyari Asabana Bushi]]” or to Tokunoshima’s “[[https://www.youtube.com/watch?v=uW7zdrqzW-I][Shima Asabana]],” though they’re so different it’s hard to believe the songs are related to one another. However, the songs and languages aren’t the only things that differ region to region.
+* What’s in a shamisen?
+Imagine my surprise when I went to the only shamisen shop on the island and instead of standard shamisen (left), they stocked only these (right).
+In more than two years on the islands, I’ve not seen a single “normal” shamisen. /Shimanchu/ (“islanders,” in the local dialect) have great pride in their local culture. /Izakaya/ (Japanese-style pubs) often have local shamisen hanging on their walls. If you ask politely, most barkeeps might let you strum it a bit! It is also a great conversation starter. Complete strangers will often approach me while practicing in the park (or practicing the fingerings when songs come on the radio) and express their enthusiasm for someone so young learning the shamisen or to reflect wistfully on songs from their childhood.
+
+If you’re wondering, like I was, what the deal was, it’s because it’s not really a “shamisen” (i.e. the modern cat-or-dog skinned lute) but an older, intermediate style that lies between it and the Chinese [[https://www.youtube.com/watch?v=kIXPneOnlsw][/sanxian/]] from which it originated.
+
+“But, wait!” you might ask, “isn’t that an Okinawan sanshin?” Technically, you would be right, but it’s actually an Amami-style shamisen: you can tell by the bridge, the pick, and the yellow color and thickness of the strings, as Tanaka Atsushi helpfully points out in his tongue-in-cheek song “[[https://www.youtube.com/watch?v=iRWhJuJzYSk&t=25][Oshima Elegy]].”
+
+#+begin_verse
+The shamisen is different too: the skin and the pick
+the strings, color, and thickness are completely different
+(but wait, there’s more!)
+on Erabu and Yoron islands
+it’s actually an Okinawan sanshin
+	---“Oshima Elegy,” Tanaka Atsushi 
+#+end_verse
+
+Many Amamians can be defensive when it comes to distinguishing themselves from Okinawans, from whom they’ve been separate for over 400 years. They are particularly protective of the term “shima-uta,” which they feel has been appropriated as a term for Okinawan music starting in the 1970’s and especially after The BOOM landed a [[https://www.youtube.com/watch?v=QClHYKVPniM][national hit]] using it as a title in 1993. Both island chains have long, rich musical traditions that are historically related, but have been parallel for quite some time.
+
+Minor physical differences aside, the methods of playing the sanshin and singing are quite different, even for songs that spread from Okinawa to the Amami islands. Compare this Okinawan "[[https://www.youtube.com/watch?v=eGCR9vKvHso][Kokuto Kuduki]]" with Tokunoshima’s "[[https://www.youtube.com/watch?v=dmqxpz0jQc8][Ikin Kuduki]]" (/aka/ "Juuban Kuduki").
+
+Unlike the wedge-like plectrum used on the mainland or the Okinawan claw-like pick, Amamians use a thin strip of bamboo to pluck the strings. This creates a characteristic “clack” on downstrokes as well as a clean-sounding upstroke. Other than that, the easiest way to tell between an Okinawan sanshin and an Amami shamisen are the materials used for the strings: Okinawan strings are invariably white and thick, Amamian ones are always yellow and thin. Despite the body being virtually identical the combination of strings and pick results in a higher pitch. This is is also reflected in the characteristic falsetto of Amamian shima-uta. I found this out when I stayed in Okinawa one August to study Japanese during the day and the sanshin by night. My music tutor, being unfamiliar with Amamian shima-uta, kept trying to tune my shamisen for a few minutes before realizing that the strings were producing a different timbre.
+* The Songs of Shima-uta
+[[yt:R2ffKHsltMA]]
+
+Alice Sato performing “Kunnyori Yone Ago Bushi”
+
+A fairly typical example of the song structure can be found in one of my favorite songs, “Kunnyori Yone Ago Bushi.” This cute little ditty follows the beautiful Miss Yone as various boys try to woo her. Keep in mind that this in a very difficult dialect; I make no claims as to the accuracy of my translation.
+|                            | Kun'nyori Yone Ago Bushi           |                                                   |
+|----------------------------+------------------------------------+---------------------------------------------------|
+| 国直米姉や                 | Kun'nyori Yone ago ya              | Miss Yone from Kunnyori, she's…                   |
+| 「アラドッコイ ドッコイ」  | (ara dokkoi dokkoi)                | (aradokkoi dokkoi)                                |
+| 国直しま中ぬ美人じゃ       | Kun'nyori shima juu nu kyuramun ja | the prettiest gal in all Kunnyori town            |
+|----------------------------+------------------------------------+---------------------------------------------------|
+| 国直米姉や                 | Kun'nyori Yone ago ya              | Miss Yone from Kyunnyori, she…                    |
+| 「アラドッコイ ドッコイ」  |                                    | (aradokkoi dokkoi)                                |
+| 山下青年きゃにゃ及ばんど   | Yamashita nesen kya'nya uyuban do  | won't be caught by the Yamashita boys             |
+|----------------------------+------------------------------------+---------------------------------------------------|
+| 国直米姉や                 | Kun'nyori Yone ago ya              | Miss Yone from Kunnyori, you've…                  |
+| 「アラドッコイ ドッコイ」  | (aradokkoi dokkoi)                 | (aradokkoi dokkoi)                                |
+| 頭やうがしど結わんにゃ     | kamachi ya ugashidu yuuwan'nya     | done your hair like that?                         |
+|----------------------------+------------------------------------+---------------------------------------------------|
+| にゃあにゃり引き付けて     | nya'nyari hiki tsikiti             | Why don't you take it a little more in the middle |
+| 「アラドッコイ ドッコイ 」 | (aradokkoi dokkoi)                 | (aradokkoi dokkoi)                                |
+| 頭や真頂ち結わんにゃ       | kamachi ya machichichi yuwaran'nya | and tie it up on top?                             |
+|----------------------------+------------------------------------+---------------------------------------------------|
+| 国直米姉や                 | Kun'nyori Yone ago ya              | Miss Yone from Kunnyori, she's…                   |
+| 「アラドッコイ ドッコイ」  | (aradokkoi dokkoi)                 | (aradokkoi dokkoi)                                |
+| 朝顔ぬ御花                 | asagao nu ubana                    | a Morning Glory flower                            |
+|----------------------------+------------------------------------+---------------------------------------------------|
+| 国直峯次郎や               | Kun'nyori Mine Jiru ya             | Jiro Mine from Kunnyori, he's…                    |
+| 「アラドッコイ ドッコイ」  | (aradokkoi dokkoi)                 | (aradokkoi dokkoi)                                |
+| 蝶なてぃ舞ゆりてよ         | ha'bwira nati mayuri               | fluttering like a butterfly                       |
+
+There are songs for many different occasions. For example, “Asabana Bushi” and “[[https://www.youtube.com/watch?v=2xKkv46km78][Ikyunnyakana]]” (Are You Leaving, My Love?) are standards played at virtually every festival and [[https://folkways-media.si.edu/liner_notes/folkways/FW04448.pdf][one folklorist]] even compared the former to the “Star-Spangled Banner” for its centrality in the canon. “[[https://www.youtube.com/watch?v=FgWt62I2Rjo][Rokucho]]” (Six Tones) is used to call everyone to the dance floor and bring an event to a spectacular close. Asobi-uta, such as Tokunoshima’s “[[https://www.youtube.com/watch?v=6iFQsg3eF4s][Chukkyari Bushi]],” are something of a game, where competing singers join in adding their own verses (which can be quite tongue-in-cheek). “[[https://www.youtube.com/watch?v=dmqxpz0jQc8][Ikin Kuduki]]” (Life Lesson Narrative) is traditionally sung at weddings to impart advice to those of all walks of life. “[[https://www.youtube.com/watch?v=d24iUs2a0ac][Tokunoshima Bushi]]” (or “[[https://www.youtube.com/watch?v=6y7OY-0XXsw][Intabu Bushi]]” as it’s known to locals) is a lament for the [[https://ja.wikipedia.org/wiki/%E7%8A%AC%E7%94%B0%E5%B8%83%E9%A8%92%E5%8B%95][peasant revolt]] of Inutabu village in 1864 against the Satsuma clan. There are also songs like “[[https://youtu.be/b4Nkj_kLRDg?t=46][Muchi Tabore]]” (Rice Cakes, Please!) where children canvas the town, dancing and singing, asking for rice cakes. Another genre is work songs, such as “[[https://www.youtube.com/watch?v=HGDxhoHKjDY][Inesuri-bushi]]” or “[[https://www.youtube.com/watch?v=1JXZ6SKHEIA][Taue Uta]]“.
+* The Future of Shima-uta
+#+CAPTION: Misawa Akemi sings her hit shin-min’yo song “Shima no Blues”
+[[yt:YW_-aexCxCk]]
+
+Despite the gradual decline of shimaguchi, shima-uta is still a living musical tradition. Some public schools instruct students in shima-uta or have shamisen clubs and many community centers often ofter courses in playing the shamisen, folk dancing, or speaking in shimaguchi. Contemporary singers adapt have adapted traditional music to new genres. A few even compose new shima-uta songs (called shin-min’yo, “new folk music”). “[[https://www.youtube.com/watch?v=2l1cUguVO1o][Waido Bushi]]” is a perfect example of this; written in 1978 by Yutaka Tsuboyama (1930 – 2020), it’s since become the de facto anthem for Tokunoshima, an island famous for its [[https://en.wikipedia.org/wiki/T%C5%8Dgy%C5%AB][bull fights]]. Some songs incorporate older melodies, such as “[[https://www.youtube.com/watch?v=rwKcxyWfAnw][Erabu Yuri no Hana]],” which adapted the tune of “[[https://www.youtube.com/watch?v=qb5CqT_68Sg][Makura Bushi]]” (Pillow Song), but most are composed for a more popular audience, with lyrics in standard Japanese and performed with modern instrumentation.
+
+Although these songs have shed many elements of classical shima-uta, the songs invariably concern island life and are peppered with shimaguchi words and phrases (e.g. referring to one’s lover as “kana”). Some singers have even brought shin-min’yo to the national stage. Some examples are Tabata Yoshio who popularized “[[https://www.youtube.com/watch?v=gUmcKJK7UnA][Shima Sodachi]]” (Island Upbringing) after spending a few years living on Amami-Oshima, or Misawa Akemi and her hit song “[[https://www.youtube.com/watch?v=35Cyh7G1_oE][Shima no Blues]]” (Island Blues). These songs, mostly dating from the Amami Shin-min’yo boom of the 1960s, have since entered the shima-uta canon and are frequently played alongside more traditional numbers.
+
+Other artists have taken a more experimental approach to the genre. Asazaki Ikue, nicknamed “Amami’s [[https://en.wikipedia.org/wiki/Hibari_Misora][Misora Hibari]],” is a famous shima-uta singer from Kakeromajima, is well-known for her distinctive New-Age style. She also brought shima-uta to an international audience in 2005 when her song “[[https://www.youtube.com/watch?v=FZNcjdgaZNQ][Obokuri-Eeumi]]” was featured in an episode of the hit anime /Samurai Champloo/.
+
+Compare the different approaches contemporary singers have taken to “Hounen Bushi”:
+
+- A [[https://www.youtube.com/watch?v=0stlNDt6ajc][traditional recording]] by Takeshita Kazuhira.
+- A [[https://open.spotify.com/track/6kiq0CaE8rfaiO5VY5hDeP?si=a517abdcd8514c3a][version]] by Asazaki Ikue with contemporary ensemble
+- An [[https://www.youtube.com/watch?v=C6n_d431BsU][upbeat version]] by the band Kurofune featuring a modern shamisen.
+- A relaxed [[https://www.youtube.com/watch?v=GHi_u6cM0qg][jazzy rendition]] by Atari Kousuke.
+- A [[https://www.youtube.com/watch?v=b3GJX9EvXFM][cumbia-inspired version]] by Hajime Chitose.
+
+The Amami islands have a vibrant musical culture, one which I hope dearly will continue to thrive.
+
+I would like to thank Izumi-sensei and Naka-san for teaching me shima-uta and Mrs. Matsuda for her invaluable help in translating shimaguchi. Traditional shima-uta songs are part of the public domain, and their lyrics are not copyrightable under Japanese law. Most, but not all, shin-min’yo songs are still under copyright, and thus their recordings and lyrics belong to their respective owners. Translations posted on this site, unless otherwise cited, are my own work. Please support the artists and producers of this traditional artform by purchasing and not infringing on their copyrights.
+
+This page will continue to update as I finish more translations and upload more resources.

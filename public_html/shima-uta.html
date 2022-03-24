@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- 2022-03-24 木 15:51 -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>奄美の島唄</title>
+<meta name="generator" content="Org mode">
+<meta name="author" content="Daniel Persigehl">
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="org-div-home-and-up">
+ <a accesskey="h" href="index.html"> UP </a>
+ |
+ <a accesskey="H" href=""> HOME </a>
+</div><div id="preamble" class="status">
+<hr><p class="date">Daniel Persigehl | </p>
+</div>
+<div id="content">
+<header>
+<h1 class="title">奄美の島唄</h1>
+</header><div id="outline-container-orge91e14c" class="outline-2">
+<h2 id="orge91e14c">What is Shima-Uta?</h2>
+<div class="outline-text-2" id="text-orge91e14c">
+<DIV CLASS="centeralign">
+<p>
+{ <iframe width="440" height="335" src="https://www.youtube.com/embed/_CMEKV-meSU?t=70" frameborder="0" allowfullscreen></iframe> }
+</p>
+</div>
+
+
+<p>
+Kizuki Minami performs traditional folk song “Yoi Sura Bushi” on <i>Meikyoku Nippon</i>.
+</p>
+
+<p>
+When people think of the traditional Japanese banjo, most associate it with the fast-paced and instrumental <a href="https://www.youtube.com/watch?v=m-9bVMKlfJM"><i>Tsugaru</i> style</a> or the traditional [][/naga-uta/] of Japanese theater such as <a href="https://youtu.be/Dk0QIGJKxoA?t=572"><i>kabuki</i> opera</a> or <a href="https://www.youtube.com/watch?v=Gz-pg8kq_Dk"><i>bunraku</i> puppet theater</a>. However, there is a great variety of styles that you may not know about. Along with other instruments such as the <a href="https://www.youtube.com/watch?v=JDTp_YQizqE"><i>koto</i></a>, the <a href="https://www.youtube.com/watch?v=Sv2je9arNz4"><i>shakuhachi</i> flute</a>, and the <a href="https://www.youtube.com/watch?v=lOo5O3qyqIk"><i>taiko</i> drum</a>, the shamisen has a long history and each region of Japan has different traditions. I consider myself truly blessed to be able to tell you about the genre of SHIMA-UTA.
+</p>
+
+<p class="verse">
+When sailing out to the sea, we pray, <i>yoi sura</i><br>
+We pray she will keep us safe, <i>yoi sura</i><br>
+&#xa0;&#x2014;“Yoi Sura Bushi,” trans. Miyata Tomoko<br>
+</p>
+
+<p>
+Shima-uta is the traditional folk music of the Amami archipelago stretching between Kyushu and Okinawa prefecture. Culturally and linguistically distinct from Japan for much of its history, the islands only came under the rule of the Satsuma clan in the early 1600’s. Before that, they were part of the Ryukyu Kingdom (known today as Okinawa). This mixed heritage is reflected in its folk music.
+</p>
+
+<p>
+Despite being widely considered a form of Japanese, the Ryukyuan dialects are mutually unintelligible with standard Japanese and linguists consider them to be a language continuum related to but not descended from Japanese, and to be the only other extant members of the Japonic language family. With the advent of modern education in the late 19th century, the dialects were suppressed in favor of Standard Japanese, leading to a sharp decline in speakers over the 20th century. Revitalization efforts starting in the late 20th century have seen decent results for the Okinawan subfamily, but not for Amami, where the speech is used only by the elderly.
+</p>
+
+<p>
+<iframe width="440" height="335" src="https://www.youtube.com/embed/CCZK9bDM5J4" frameborder="0" allowfullscreen></iframe>
+Atari Kousuke, Hajime Chitose, et al. singing “Asabana Bushi”
+Asabana Bushi is the traditional kick off to a shima-uta performance, sung in the native tongues of the islanders. Like many other songs, the ballad concerns two lovers eager to meet up again and is usually sung by alternating male and female singers. But the lyrics are part of a dialogue with the audience; travel was historically dangerous and expensive, so it would be a long time before someone leaving the village (shima) comes back again, if ever. Travel outside of the shima was so rare that even neighboring villages had different dialects and two people from the same island might have difficulty understanding each other.
+</p>
+
+<p class="verse">
+I’m dying to see you again<br>
+(<i>Yoi sa, yoi yoi</i>)<br>
+If we meet up again,<br>
+How soon can we meet?<br>
+&#xa0;&#x2014;“Asabana Bushi”<br>
+</p>
+
+<p>
+This is why they’re called shima-uta / shimaguchi (lit. <i>village songs / speech</i>). This is most apparent on Amami-Oshima island which, despite being a single island, has been divided into <a href="https://en.wikipedia.org/wiki/Amami_languages">multiple language clusters</a>. As with many folk traditions around the world, there is no one set of correct lyrics or arrangements because they are changed by the itinerant musicians to suit the occasion as they travel around the archipelago. Popular songs like “Asabana Bushi” (Morning Flower Melody) evolved wildly different tunes and lyrics as minstrels spread the song to different villages throughout the archipelago. Compare “<a href="https://www.youtube.com/watch?v=CCZK9bDM5J4">Asabana Bushi</a>” to “<a href="https://www.youtube.com/watch?v=Pudy9odR6E0">Chukkyari Asabana Bushi</a>” or to Tokunoshima’s “<a href="https://www.youtube.com/watch?v=uW7zdrqzW-I">Shima Asabana</a>,” though they’re so different it’s hard to believe the songs are related to one another. However, the songs and languages aren’t the only things that differ region to region.
+</p>
+</div>
+</div>
+<div id="outline-container-orgea18102" class="outline-2">
+<h2 id="orgea18102">What’s in a shamisen?</h2>
+<div class="outline-text-2" id="text-orgea18102">
+<p>
+Imagine my surprise when I went to the only shamisen shop on the island and instead of standard shamisen (left), they stocked only these (right).
+In more than two years on the islands, I’ve not seen a single “normal” shamisen. <i>Shimanchu</i> (“islanders,” in the local dialect) have great pride in their local culture. <i>Izakaya</i> (Japanese-style pubs) often have local shamisen hanging on their walls. If you ask politely, most barkeeps might let you strum it a bit! It is also a great conversation starter. Complete strangers will often approach me while practicing in the park (or practicing the fingerings when songs come on the radio) and express their enthusiasm for someone so young learning the shamisen or to reflect wistfully on songs from their childhood.
+</p>
+
+<p>
+If you’re wondering, like I was, what the deal was, it’s because it’s not really a “shamisen” (i.e. the modern cat-or-dog skinned lute) but an older, intermediate style that lies between it and the Chinese <a href="https://www.youtube.com/watch?v=kIXPneOnlsw"><i>sanxian</i></a> from which it originated.
+</p>
+
+<p>
+“But, wait!” you might ask, “isn’t that an Okinawan sanshin?” Technically, you would be right, but it’s actually an Amami-style shamisen: you can tell by the bridge, the pick, and the yellow color and thickness of the strings, as Tanaka Atsushi helpfully points out in his tongue-in-cheek song “<a href="https://www.youtube.com/watch?v=iRWhJuJzYSk&amp;t=25">Oshima Elegy</a>.”
+</p>
+
+<p class="verse">
+The shamisen is different too: the skin and the pick<br>
+the strings, color, and thickness are completely different<br>
+(but wait, there’s more!)<br>
+on Erabu and Yoron islands<br>
+it’s actually an Okinawan sanshin<br>
+&#xa0;&#x2014;“Oshima Elegy,” Tanaka Atsushi<br>
+</p>
+
+<p>
+Many Amamians can be defensive when it comes to distinguishing themselves from Okinawans, from whom they’ve been separate for over 400 years. They are particularly protective of the term “shima-uta,” which they feel has been appropriated as a term for Okinawan music starting in the 1970’s and especially after The BOOM landed a <a href="https://www.youtube.com/watch?v=QClHYKVPniM">national hit</a> using it as a title in 1993. Both island chains have long, rich musical traditions that are historically related, but have been parallel for quite some time.
+</p>
+
+<p>
+Minor physical differences aside, the methods of playing the sanshin and singing are quite different, even for songs that spread from Okinawa to the Amami islands. Compare this Okinawan "<a href="https://www.youtube.com/watch?v=eGCR9vKvHso">Kokuto Kuduki</a>" with Tokunoshima’s "<a href="https://www.youtube.com/watch?v=dmqxpz0jQc8">Ikin Kuduki</a>" (<i>aka</i> "Juuban Kuduki").
+</p>
+
+<p>
+Unlike the wedge-like plectrum used on the mainland or the Okinawan claw-like pick, Amamians use a thin strip of bamboo to pluck the strings. This creates a characteristic “clack” on downstrokes as well as a clean-sounding upstroke. Other than that, the easiest way to tell between an Okinawan sanshin and an Amami shamisen are the materials used for the strings: Okinawan strings are invariably white and thick, Amamian ones are always yellow and thin. Despite the body being virtually identical the combination of strings and pick results in a higher pitch. This is is also reflected in the characteristic falsetto of Amamian shima-uta. I found this out when I stayed in Okinawa one August to study Japanese during the day and the sanshin by night. My music tutor, being unfamiliar with Amamian shima-uta, kept trying to tune my shamisen for a few minutes before realizing that the strings were producing a different timbre.
+</p>
+</div>
+</div>
+<div id="outline-container-orgea999a4" class="outline-2">
+<h2 id="orgea999a4">The Songs of Shima-uta</h2>
+<div class="outline-text-2" id="text-orgea999a4">
+<p>
+<iframe width="440" height="335" src="https://www.youtube.com/embed/R2ffKHsltMA" frameborder="0" allowfullscreen></iframe>
+</p>
+
+<p>
+Alice Sato performing “Kunnyori Yone Ago Bushi”
+</p>
+
+<p>
+A fairly typical example of the song structure can be found in one of my favorite songs, “Kunnyori Yone Ago Bushi.” This cute little ditty follows the beautiful Miss Yone as various boys try to woo her. Keep in mind that this in a very difficult dialect; I make no claims as to the accuracy of my translation.
+</p>
+<table>
+
+
+<colgroup>
+<col  class="org-left">
+
+<col  class="org-left">
+
+<col  class="org-left">
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">Kun'nyori Yone Ago Bushi</th>
+<th scope="col" class="org-left">&#xa0;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">国直米姉や</td>
+<td class="org-left">Kun'nyori Yone ago ya</td>
+<td class="org-left">Miss Yone from Kunnyori, she's…</td>
+</tr>
+
+<tr>
+<td class="org-left">「アラドッコイ ドッコイ」</td>
+<td class="org-left">(ara dokkoi dokkoi)</td>
+<td class="org-left">(aradokkoi dokkoi)</td>
+</tr>
+
+<tr>
+<td class="org-left">国直しま中ぬ美人じゃ</td>
+<td class="org-left">Kun'nyori shima juu nu kyuramun ja</td>
+<td class="org-left">the prettiest gal in all Kunnyori town</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">国直米姉や</td>
+<td class="org-left">Kun'nyori Yone ago ya</td>
+<td class="org-left">Miss Yone from Kyunnyori, she…</td>
+</tr>
+
+<tr>
+<td class="org-left">「アラドッコイ ドッコイ」</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">(aradokkoi dokkoi)</td>
+</tr>
+
+<tr>
+<td class="org-left">山下青年きゃにゃ及ばんど</td>
+<td class="org-left">Yamashita nesen kya'nya uyuban do</td>
+<td class="org-left">won't be caught by the Yamashita boys</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">国直米姉や</td>
+<td class="org-left">Kun'nyori Yone ago ya</td>
+<td class="org-left">Miss Yone from Kunnyori, you've…</td>
+</tr>
+
+<tr>
+<td class="org-left">「アラドッコイ ドッコイ」</td>
+<td class="org-left">(aradokkoi dokkoi)</td>
+<td class="org-left">(aradokkoi dokkoi)</td>
+</tr>
+
+<tr>
+<td class="org-left">頭やうがしど結わんにゃ</td>
+<td class="org-left">kamachi ya ugashidu yuuwan'nya</td>
+<td class="org-left">done your hair like that?</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">にゃあにゃり引き付けて</td>
+<td class="org-left">nya'nyari hiki tsikiti</td>
+<td class="org-left">Why don't you take it a little more in the middle</td>
+</tr>
+
+<tr>
+<td class="org-left">「アラドッコイ ドッコイ 」</td>
+<td class="org-left">(aradokkoi dokkoi)</td>
+<td class="org-left">(aradokkoi dokkoi)</td>
+</tr>
+
+<tr>
+<td class="org-left">頭や真頂ち結わんにゃ</td>
+<td class="org-left">kamachi ya machichichi yuwaran'nya</td>
+<td class="org-left">and tie it up on top?</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">国直米姉や</td>
+<td class="org-left">Kun'nyori Yone ago ya</td>
+<td class="org-left">Miss Yone from Kunnyori, she's…</td>
+</tr>
+
+<tr>
+<td class="org-left">「アラドッコイ ドッコイ」</td>
+<td class="org-left">(aradokkoi dokkoi)</td>
+<td class="org-left">(aradokkoi dokkoi)</td>
+</tr>
+
+<tr>
+<td class="org-left">朝顔ぬ御花</td>
+<td class="org-left">asagao nu ubana</td>
+<td class="org-left">a Morning Glory flower</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">国直峯次郎や</td>
+<td class="org-left">Kun'nyori Mine Jiru ya</td>
+<td class="org-left">Jiro Mine from Kunnyori, he's…</td>
+</tr>
+
+<tr>
+<td class="org-left">「アラドッコイ ドッコイ」</td>
+<td class="org-left">(aradokkoi dokkoi)</td>
+<td class="org-left">(aradokkoi dokkoi)</td>
+</tr>
+
+<tr>
+<td class="org-left">蝶なてぃ舞ゆりてよ</td>
+<td class="org-left">ha'bwira nati mayuri</td>
+<td class="org-left">fluttering like a butterfly</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+There are songs for many different occasions. For example, “Asabana Bushi” and “<a href="https://www.youtube.com/watch?v=2xKkv46km78">Ikyunnyakana</a>” (Are You Leaving, My Love?) are standards played at virtually every festival and <a href="https://folkways-media.si.edu/liner_notes/folkways/FW04448.pdf">one folklorist</a> even compared the former to the “Star-Spangled Banner” for its centrality in the canon. “<a href="https://www.youtube.com/watch?v=FgWt62I2Rjo">Rokucho</a>” (Six Tones) is used to call everyone to the dance floor and bring an event to a spectacular close. Asobi-uta, such as Tokunoshima’s “<a href="https://www.youtube.com/watch?v=6iFQsg3eF4s">Chukkyari Bushi</a>,” are something of a game, where competing singers join in adding their own verses (which can be quite tongue-in-cheek). “<a href="https://www.youtube.com/watch?v=dmqxpz0jQc8">Ikin Kuduki</a>” (Life Lesson Narrative) is traditionally sung at weddings to impart advice to those of all walks of life. “<a href="https://www.youtube.com/watch?v=d24iUs2a0ac">Tokunoshima Bushi</a>” (or “<a href="https://www.youtube.com/watch?v=6y7OY-0XXsw">Intabu Bushi</a>” as it’s known to locals) is a lament for the <a href="https://ja.wikipedia.org/wiki/%E7%8A%AC%E7%94%B0%E5%B8%83%E9%A8%92%E5%8B%95">peasant revolt</a> of Inutabu village in 1864 against the Satsuma clan. There are also songs like “<a href="https://youtu.be/b4Nkj_kLRDg?t=46">Muchi Tabore</a>” (Rice Cakes, Please!) where children canvas the town, dancing and singing, asking for rice cakes. Another genre is work songs, such as “<a href="https://www.youtube.com/watch?v=HGDxhoHKjDY">Inesuri-bushi</a>” or “<a href="https://www.youtube.com/watch?v=1JXZ6SKHEIA">Taue Uta</a>“.
+</p>
+</div>
+</div>
+<div id="outline-container-org9d5ca5a" class="outline-2">
+<h2 id="org9d5ca5a">The Future of Shima-uta</h2>
+<div class="outline-text-2" id="text-org9d5ca5a">
+<p>
+<iframe width="440" height="335" src="https://www.youtube.com/embed/YW_-aexCxCk" frameborder="0" allowfullscreen></iframe>
+</p>
+
+<p>
+Despite the gradual decline of shimaguchi, shima-uta is still a living musical tradition. Some public schools instruct students in shima-uta or have shamisen clubs and many community centers often ofter courses in playing the shamisen, folk dancing, or speaking in shimaguchi. Contemporary singers adapt have adapted traditional music to new genres. A few even compose new shima-uta songs (called shin-min’yo, “new folk music”). “<a href="https://www.youtube.com/watch?v=2l1cUguVO1o">Waido Bushi</a>” is a perfect example of this; written in 1978 by Yutaka Tsuboyama (1930 – 2020), it’s since become the de facto anthem for Tokunoshima, an island famous for its <a href="https://en.wikipedia.org/wiki/T%C5%8Dgy%C5%AB">bull fights</a>. Some songs incorporate older melodies, such as “<a href="https://www.youtube.com/watch?v=rwKcxyWfAnw">Erabu Yuri no Hana</a>,” which adapted the tune of “<a href="https://www.youtube.com/watch?v=qb5CqT_68Sg">Makura Bushi</a>” (Pillow Song), but most are composed for a more popular audience, with lyrics in standard Japanese and performed with modern instrumentation.
+</p>
+
+<p>
+Although these songs have shed many elements of classical shima-uta, the songs invariably concern island life and are peppered with shimaguchi words and phrases (e.g. referring to one’s lover as “kana”). Some singers have even brought shin-min’yo to the national stage. Some examples are Tabata Yoshio who popularized “<a href="https://www.youtube.com/watch?v=gUmcKJK7UnA">Shima Sodachi</a>” (Island Upbringing) after spending a few years living on Amami-Oshima, or Misawa Akemi and her hit song “<a href="https://www.youtube.com/watch?v=35Cyh7G1_oE">Shima no Blues</a>” (Island Blues). These songs, mostly dating from the Amami Shin-min’yo boom of the 1960s, have since entered the shima-uta canon and are frequently played alongside more traditional numbers.
+</p>
+
+<p>
+Other artists have taken a more experimental approach to the genre. Asazaki Ikue, nicknamed “Amami’s <a href="https://en.wikipedia.org/wiki/Hibari_Misora">Misora Hibari</a>,” is a famous shima-uta singer from Kakeromajima, is well-known for her distinctive New-Age style. She also brought shima-uta to an international audience in 2005 when her song “<a href="https://www.youtube.com/watch?v=FZNcjdgaZNQ">Obokuri-Eeumi</a>” was featured in an episode of the hit anime <i>Samurai Champloo</i>.
+</p>
+
+<p>
+Compare the different approaches contemporary singers have taken to “Hounen Bushi”:
+</p>
+
+<ul class="org-ul">
+<li>A <a href="https://www.youtube.com/watch?v=0stlNDt6ajc">traditional recording</a> by Takeshita Kazuhira.</li>
+<li>A <a href="https://open.spotify.com/track/6kiq0CaE8rfaiO5VY5hDeP?si=a517abdcd8514c3a">version</a> by Asazaki Ikue with contemporary ensemble</li>
+<li>An <a href="https://www.youtube.com/watch?v=C6n_d431BsU">upbeat version</a> by the band Kurofune featuring a modern shamisen.</li>
+<li>A relaxed <a href="https://www.youtube.com/watch?v=GHi_u6cM0qg">jazzy rendition</a> by Atari Kousuke.</li>
+<li>A <a href="https://www.youtube.com/watch?v=b3GJX9EvXFM">cumbia-inspired version</a> by Hajime Chitose.</li>
+</ul>
+
+<p>
+The Amami islands have a vibrant musical culture, one which I hope dearly will continue to thrive.
+</p>
+
+<p>
+I would like to thank Izumi-sensei and Naka-san for teaching me shima-uta and Mrs. Matsuda for her invaluable help in translating shimaguchi. Traditional shima-uta songs are part of the public domain, and their lyrics are not copyrightable under Japanese law. Most, but not all, shin-min’yo songs are still under copyright, and thus their recordings and lyrics belong to their respective owners. Translations posted on this site, unless otherwise cited, are my own work. Please support the artists and producers of this traditional artform by purchasing and not infringing on their copyrights.
+</p>
+
+<p>
+This page will continue to update as I finish more translations and upload more resources.
+</p>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<hr><p class="date">Created  by Daniel Persigehl</p><div id="created"><p>Last updated 2022-03-24 木 15:51</p></div>
+</div>
+</body>
+</html>
