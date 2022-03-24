@@ -1,7 +1,7 @@
 #+TITLE: Daniel先生のブログ
 
-- [[file:about-me.org][About Daniel]]
-- [[file:home.org][Home]]
 - [[file:studiaclassica.org][STVDIA·CLASSICA]]
-- [[file:shima-uta.org][Shima-Uta]]
+- [[file:shima-uta.org][奄美の島唄]]
+- [[file:home.org][Daniel先生のブログ]]
 - [[file:about-site.org][About This Site]]
+- [[file:about-me.org][About Daniel]]

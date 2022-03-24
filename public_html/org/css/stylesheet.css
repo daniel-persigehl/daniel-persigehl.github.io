@@ -1,0 +1,26 @@
+body {
+  background-color: antiquewhite;
+}
+h2 {
+    text-align: center;    
+}
+h1 {
+    color: black;
+}
+p {
+    color: black;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+table {
+    margin-left: 20%;
+}
+ul {
+    margin-left: 15%;
+}
+p.verse {
+    margin-left: 20%;
+}
+iframe {
+    text-align: center;
+}
