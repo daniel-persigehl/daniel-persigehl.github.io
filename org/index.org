@@ -1,7 +1,9 @@
 #+TITLE: Daniel先生のブログ
 
-- [[file:studiaclassica.org][STVDIA·CLASSICA]]
-- [[file:shima-uta.org][奄美の島唄]]
-- [[file:home.org][Daniel先生のブログ]]
-- [[file:about-site.org][About This Site]]
 - [[file:about-me.org][About Daniel]]
+- [[file:home.org][Home]]
+- [[file:studiaclassica.org][STVDIA·CLASSICA]]
+- [[file:shima-uta.org][Shima-Uta]]
+- [[file:about-site.org][About This Site]]
+- [[file:shima-no-blues.org][shima-no-blues]]
+- [[file:gregorian-chant-japan.org][gregorian-chant-japan]]

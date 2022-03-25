@@ -1,17 +1,37 @@
 #+TITLE: Daniel先生のブログ
-Welcome to Daniel Sensei's Blog.
-This is the homepage.
-* Navigation
-This is the [[file:about-me.org][about]] page
+#+macro: ruby @@html:<ruby> $1<rp>(</rp><rt>$2</rt><rp>)</rp></ruby>@@@@latex:\ruby{$1}{$2}@@
+* Hello. SALVE. こんにちは。Χαῖρε. Bonjour. きゅーうがめーら。
+My name is Daniel and I'm a language instructor.
+
+It's been a long time coming, but I finally decided to bite the bullet and publish this site.  I've been living in Japan for over 4 years now, and I know friends and family have been pestering me for updates, so this is my answer.
+
+WELCOME to my personal blog!
 * English LATINA 日本語 Ἑλληνική Français 島口
+ | あの、これは「ペン」と言いますか。 |
+ | いや、リンゴだ。                   |
 Fear of embarrassment has never stopped me from learning a new language. Maybe reading about my story can help you learn one too.
-[LEARN MORE]
-* Latin and Greek
-Languages, like wines, grow more refined with age, and these are among the oldest of all.
+* [[./studiaclassica.org][Latin and Greek]]
+| Ἄνδρα μοι ἔννεπε, Μοῦσα, πολύτροπον, ὃς μάλα πολλὰ | Ex his ipsis cultis notisque terris num aut tuum            |
+| πλάγχθη, ἐπεὶ Τροίης ἱερὸν πτολίεθρον ἔπερσε·      | aut cuiusquam nostrum nomen vel Caucasum hunc, quem cernis, |
+| πολλῶν δ’ ἀνθρώπων ἴδεν ἄστεα καὶ νόον ἔγνω,       | transcendere potuit vel illum Gangem tranatare?             |
+| πολλὰ δ’ ὅ γ’ ἐν πόντῳ πάθεν ἄλγεα ὃν κατὰ θυμόν,  | Quis in reliquis orientis aut obeuntis solis ultimis        |
+| ἀρνύμενος ἥν τε ψυχὴν καὶ νόστον ἑταίρων.          | aut aquilonis austrive partibus tuum nomen audiet?          |
+    
+Languages, like wines, grow more refined with age, and these are among the oldest of all.  These posts relate specifically to Classical Studies.
+** Recent Articles
+- [[file:gregorian-chant-japan.org][Gregorian Chant in Japan]]
 * Historical Music
-Join me as I learn about traditional forms of music like Gregorian chant or Japanese [[file:shima-uta.org][/shima-uta/]].
+| {{{ruby(稀,ま)}}}れ稀れ　{{{ruby(汝,な)}}}きゃ{{{ruby(拝,うが)}}}で | I’m dying to see you again |
+| ヨイサ、ヨイヨイ                                                    | (Yoi sa, yoi yoi)          |
+| {{{ruby(今,なま)}}}{{{ruby(汝,な)}}}きゃ{{{ruby(拝,うが)}}}むば     | If we meet up again,       |
+| にゃ{{{ruby(何時,いち)}}}頃{{{ruby(拝,うが)}}}むかい                | How soon can we meet?      |
+Join me as I learn about traditional forms of music like Gregorian chant or Japanese [[file:shima-uta.org][/shima-uta/]].  Click here to see my posts related to various styles of music.
+** Recent Articles
+- [[file:shima-no-blues.org][島のブルース ("Shima no Blues")]]
+- [[file:gregorian-chant-japan.org][Gregorian Chant in Japan]]
 * Technology
-It has often been said that there is nihil sub sole novum but the personal computer sure does come close. Let’s learn about them together.
+It has often been said that there is /nihil sub sole novum/ but the personal computer sure does come close. Let’s learn about it together.
 * About This Site
-This site was built using Emacs' org-mode suite.
+This site was built by [[./about-me.org][Daniel先生]] using [[https://www.gnu.org/software/emacs/][Emacs]]' [[https://orgmode.org/][org-mode]] suite and is hosted by [[https://github.com/][Github]].
+Thank you for all your support.
 
