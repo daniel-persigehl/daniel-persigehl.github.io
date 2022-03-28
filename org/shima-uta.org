@@ -20,11 +20,14 @@ Shima-uta is the traditional folk music of the Amami archipelago stretching betw
 
 Despite being widely considered a form of Japanese, the Ryukyuan dialects are mutually unintelligible with standard Japanese and linguists consider them to be a language continuum related to but not descended from Japanese, and to be the only other extant members of the Japonic language family. With the advent of modern education in the late 19th century, the dialects were suppressed in favor of Standard Japanese, leading to a sharp decline in speakers over the 20th century. Revitalization efforts starting in the late 20th century have seen decent results for the Okinawan subfamily, but not for Amami, where the speech is used only by the elderly.
 
-[[yt:CCZK9bDM5J4]]
 
 Atari Kousuke, Hajime Chitose, et al. singing “Asabana Bushi”
 
 Asabana Bushi is the traditional kick off to a shima-uta performance, sung in the native tongues of the islanders. Like many other songs, the ballad concerns two lovers eager to meet up again and is usually sung by alternating male and female singers. But the lyrics are part of a dialogue with the audience; travel was historically dangerous and expensive, so it would be a long time before someone leaving the village (shima) comes back again, if ever. Travel outside of the shima was so rare that even neighboring villages had different dialects and two people from the same island might have difficulty understanding each other.
+
+#+ATTR_HTML: :style float: right;margin:20px 20px 20px 20px;
+[[yt:CCZK9bDM5J4]]
+
 
 #+begin_verse
 I’m dying to see you again
