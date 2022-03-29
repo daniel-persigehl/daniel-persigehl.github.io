@@ -1,0 +1,106 @@
+#+TITLE: Typing Japanese
+Being a language teacher, I have to teach my students a variety of skills. Usually, this includes pronunciation, penmanship, and how to use various localization tools on a computer. When our students were recently supplied with 2-in-1 tablet PCs to use in class, however, I was surprised at another skill I needed to teach: I needed to teach Junior High School Students how to type. I don’t mean proper technique or touch-typing, I mean /how to use a keyboard/.
+
+#+begin_center
+#+CAPTION: /Sailor Moon/ provides an accurate portrayal of Junior High students
+[[./img/sailor-moon-floppy.jpg]]
+#+end_center
+
+#+begin_quote
+*Important caveat:* I live in an extremely poor and rural area of Japan. You would not expect students who say “I want Internet for Christmas” to be familiar with how to use a PC.
+#+end_quote
+
+This consisted of teaching about case-sensitive passwords, how to use the shift key to distinguish upper and lowercase letters, and how to use the space key properly when typing English.
+
+With that qualification out of the way, all of them studied computer use in Elementary school and virtually all have access to a parent’s (or friend’s) smartphone outside of class, whose use they are quite adept at.  One example of typing as part of the curriculum is the use of typing games to practice typing quickly and accurately.  During break time, several of my students play a conveyor sushi game called 寿司打(/sushi-da/, “sushi strike”). It is also useful in that it accepts most romanization schemes (i.e. /kunrei/, Hepburn, /wāpuro/).
+
+Desktop PCs are also significantly less common in Japan than in the US, as space is often at a premium. In fact, I have not seen a desktop computer except at work. I did, however, mail-order a desktop PC and am quite happy with it, though it extremely bulky.
+
+One of the benefits of living in a foreign country is being exposed to other ways of going about a task. One of the most apparent is typing.
+
+So how /do/ they type?
+* Japanese Kana
+#+attr_html: :align right
+[[./img/hiragana-series.png]]
+
+Although Japanese is known for using Chinese characters, kana are used to write Japanese phonetically. They are formed by systematically combining an initial consonant with one of 5 vowel sounds. k-a is written か, k-i is written き, and so on, arranged according to the “50 sounds” system.
+
+The one exception, ん which represents a terminal n/m. The remaining kana are formed through the use of diacritics or forming a cluster.
+
+So, /taberu/ (“eat”) is spelled たべる phonetically, but the “/ta/” is usually written with the kanji 食(/shoku/, “food/eat”), resulting in 食べる. Computers are advanced enough that they can parse words and even entire sentences and convert from kana to the appropriate kanji; e.g., if you type わたしはりんごをたべる(/watashi wa ringo wo taberu/, “I’ll eat an apple”), it will be converted into 私はリンゴを食べる.
+* The Flick Method
+The main method of typing my students are familiar with is the “flick” method, which is used on touch-screens:
+
+#+begin_center
+#+CAPTION: Simplified diagram of the flick method. Source: [[https://en.wikipedia.org/wiki/Japanese_input_method#/media/File:Flick_input_vowels.png][Wikipedia]]
+[[./img/Flick_input_vowels.png]]
+#+end_center
+
+This method is a modified version of the telephone keypad where the user holds the key and then slides their finger to select a character rather than having to engage in multiple key presses. With Japanese, this involves selecting the kana by series and then flicking in the direction of the combining vowel. This is particularly intuitive, because Japanese kana are constructed by systematically combining an initial consonant (if applicable) and one of 5 vowel sounds. The /0/ key contains the special characters (わをん～ー), to its left are the modifier transformations and to its right is punctuation.
+#+begin_center
+[[yt:6EMltlWAhLw]]
+
+Weather forecasters type up their reports using the “flick” method
+#+end_center
+Not only do I have to type every day, but I have to constantly switch languages while doing so.
+* Keyboard
+
+#+CAPTION: If I’d never used a keyboard before, I’d be confused too
+
+The thing that confused students the most was the hiragana. They expected that pressing た would type た, but were surprised when it resulted in a ｑ. To type た, one would have to press /t/ followed by /a/.
+
+The hiragana labels are largely a relic of the days before computers had the capability of transliterating sequences of Latin letters into Japanese. I have never seen anyone actually use this method of typing.
+
+#+begin_center
+[[yt:4mHp5tAQP-c]]
+
+Professional typist “God Hand” demonstrates his speed: 21 strokes per second.
+#+end_center
+
+At this level of speed, the learning algorithms that promote the most recent or commonly used kanji becomes a liability. As God Hand demonstrates with two common spellings of /tamago/ (卵, 玉子 “egg”), it’s more efficient to memorize the order of a fixed list.
+
+By default, Japanese words are typed in /rōmaji/ (ローマ字, “Roman letters”), either using the Kunrei-shiki or Hepburn romanization system. In practice, most people use a loose combination of the two, commonly known as /Wāpuro rōmaji/ (ワープロローマ字, “Word-processor spelling”). There are some spelling irregularities to facilitate typing, such as typing /xn/ for ん (/n/) or /du/ for づ (/zu/) to prevent ambiguity.
+
+#+begin_center
+[[yt:8mmX_cvbYew]]
+
+/Wāpuro rōmaji/ in action: note use of Roman alphabet.
+#+end_center
+
+You will notice that there are some special keys unique to the Japanese keyboard. In addition to /CTRL/, /ALT/, /WINDOWS/, and /SHIFT/, there are 半角/全角 (/hankaku/zenkaku/), Caps Lock 英数 (/eisū/), 無変換 (/muhenkan/), 変換 (/henkan/), and カタカナ/ひらがな/ローマ字 (/katakana/hiragana/rōmaji/).
+
+| 半角/全角      | hankaku/zenkaku | toggles half-width and full-width rōmaji |
+| Caps Lock 英数 | eisū            | toggles alphanumeric / Japanese          |
+| 無変換         | muhenkan        | cycle without kanji conversion           |
+| 変換           | henkan          | cycle with kanji conversion              |
+
+These special keys are invaluable in typing quickly and effectively. The dedicated toggle keys are especially useful, given that the Japanese language uses a mix of 4 writing systems: Chinese characters (kanji), hiragana (syllabic script), katakana (marked syllabic script)
+
+Not only is touch-typing an important skill, but touch-calculating is also taught in some high schools. One of the two high schools on my island even has a calculator club.
+#+begin_center
+[[yt:WwGL4Z__Ufc]]
+
+Professional use of a calculator
+#+end_center
+
+Calculators are universal, and most computer keyboards obey the JIS standard layout. However, there are other keyboards designed for specific applications. Stenographers and closed-captioners, for example, use a special keyboard:
+#+begin_center
+[[yt:vSRpF8eTBJ0]]
+
+Japanese steno-captioners at work
+#+end_center
+
+Steno-captioners demonstrate their skill by captioning the phrase /Roshia no Pūchin daitouryou wa/ (ロシアのプーチン大統領は、, “Speaking of the Russian President Putin…”) in just 6 key-chords. They often work in pairs with one acting as the main typist, and the other working as quality control.
+
+Given that a high school graduate knows 2,000+ kanji, and there are many more characters infrequently used, it is frequently the case that one needs to type a character he doesn’t know how to pronounce. This is frequently the case with proper nouns, which often use unusual spellings. This is frequently achieved through one of two methods: handwriting or dictionary lookup.
+* Handwriting
+If one has a touchscreen available, handwriting is the easiest and fastest method. One simply switches input method and draws the character. The device then provides the user with a list of the closest matches it could find. However, this depends to some degree on accurate stroke order and stroke length. For example, the characters シ (/shi/) and ツ (/tsu/) differ only in stroke order, but 日 (/hi/, “Sun”) and 曰 (/hirabi/, “say”; /lit/. “wide hi“) differ only in stroke length. Such characters are easily confused in this method.
+* Dictionary Search
+A more time intensive method involves searching (traditionally via Google) for a character as you would in a dictionary. This involves breaking down the character into its radicals (component parts) and searching for those. Native speakers are naturally more adept at this method, though it is still time-intensive.
+
+However, my favorite input method is Google’s パタパタ (/pata-pata/, “flip-flap”) method, which is the most intuitive keyboard design I’ve ever seen:
+#+begin_center
+[[yt:HzUDAaYMNsA]]
+
+Google continues to innovate input methods
+#+end_center

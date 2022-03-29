@@ -1,4 +1,4 @@
-#+TITLE: Daniel先生のブログ
+#+TITLE: {{{ruby(ダニエル,Daniel)}}}{{{ruby(先生,Sensei)}}}{{{ruby(の,no)}}}{{{ruby(ブログ,Blog)}}}
 #+macro: ruby @@html:<ruby> $1<rp>(</rp><rt>$2</rt><rp>)</rp></ruby>@@@@latex:\ruby{$1}{$2}@@
 * Hello. SALVE. こんにちは。Χαῖρε. Bonjour. きゅーうがめーら。
 My name is Daniel and I'm a language instructor.
@@ -7,10 +7,19 @@ It's been a long time coming, but I finally decided to bite the bullet and publi
 
 WELCOME to my personal blog!
 * English LATINA 日本語 Ἑλληνική Français 島口
- | あの、これは「ペン」と言いますか。 |
- | いや、リンゴだ。                   |
+#+begin_center
+*Foreign Language*
+#+end_center
+| あの、これは「ペン」と言いますか。 |
+| いや、リンゴだ。                   |
 Fear of embarrassment has never stopped me from learning a new language. Maybe reading about my story can help you learn one too.
-* [[./studiaclassica.org][Latin and Greek]]
+- Recent Articles:
+  - [[file:./typing-japanese.org][Typing Japanese]]
+  - [[./elevators-in-latin.org][Elevators in Latin]]
+* [[./studiaclassica.org][STVDIA·CLASSICA]]
+#+begin_center
+*Latin and Greek*
+#+end_center
 | Ἄνδρα μοι ἔννεπε, Μοῦσα, πολύτροπον, ὃς μάλα πολλὰ | Ex his ipsis cultis notisque terris num aut tuum            |
 | πλάγχθη, ἐπεὶ Τροίης ἱερὸν πτολίεθρον ἔπερσε·      | aut cuiusquam nostrum nomen vel Caucasum hunc, quem cernis, |
 | πολλῶν δ’ ἀνθρώπων ἴδεν ἄστεα καὶ νόον ἔγνω,       | transcendere potuit vel illum Gangem tranatare?             |
@@ -18,19 +27,27 @@ Fear of embarrassment has never stopped me from learning a new language. Maybe r
 | ἀρνύμενος ἥν τε ψυχὴν καὶ νόστον ἑταίρων.          | aut aquilonis austrive partibus tuum nomen audiet?          |
     
 Languages, like wines, grow more refined with age, and these are among the oldest of all.  These posts relate specifically to Classical Studies.
-** Recent Articles
-- [[file:gregorian-chant-japan.org][Gregorian Chant in Japan]]
-* Historical Music
+- Recent Articles
+  - [[file:gregorian-chant-japan.org][Gregorian Chant in Japan]]
+  - [[file:elevators-in-latin.org][Elevators in Latin]]
+* Music
+#+begin_center
+*Gregorian chant, [[file:shima-uta.org][/shima-uta/]] /vel sim/*.
+#+end_center
+#+CAPTION: {{{ruby(朝花,Asabana)}}}{{{ruby(節,Bushi)}}}
 | {{{ruby(稀,ま)}}}れ稀れ　{{{ruby(汝,な)}}}きゃ{{{ruby(拝,うが)}}}で | I’m dying to see you again |
 | ヨイサ、ヨイヨイ                                                    | (Yoi sa, yoi yoi)          |
 | {{{ruby(今,なま)}}}{{{ruby(汝,な)}}}きゃ{{{ruby(拝,うが)}}}むば     | If we meet up again,       |
 | にゃ{{{ruby(何時,いち)}}}頃{{{ruby(拝,うが)}}}むかい                | How soon can we meet?      |
 Join me as I learn about traditional forms of music like Gregorian chant or Japanese [[file:shima-uta.org][/shima-uta/]].  Click here to see my posts related to various styles of music.
-** Recent Articles
-- [[file:shima-no-blues.org][島のブルース ("Shima no Blues")]]
-- [[file:gregorian-chant-japan.org][Gregorian Chant in Japan]]
+- Recent Articles
+  - [[file:music-of-radwimps.org][the Music of RADWIMPS]]
+  - [[file:shima-no-blues.org][島のブルース ("Shima no Blues")]]
+  - [[file:gregorian-chant-japan.org][Gregorian Chant in Japan]]
 * Technology
 It has often been said that there is /nihil sub sole novum/ but the personal computer sure does come close. Let’s learn about it together.
+- Recent Articles
+  - [[file:typing-japanese.org][Typing Japanese]]
 * About This Site
 This site was built by [[./about-me.org][Daniel先生]] using [[https://www.gnu.org/software/emacs/][Emacs]]' [[https://orgmode.org/][org-mode]] suite and is hosted by [[https://github.com/][Github]].
 Thank you for all your support.

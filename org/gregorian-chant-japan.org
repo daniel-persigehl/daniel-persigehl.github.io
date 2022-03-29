@@ -2,29 +2,37 @@
 As you’re no doubt aware, dear reader, Latin and music are my two biggest interests. So, I am extremely enthused that I have the opportunity to sing in Latin while living in Japan.
 
 My first experience was tutoring the local community choir how to sing a medley of songs from [[https://ja.wikipedia.org/wiki/%E5%A4%A9%E4%BD%BF%E3%81%AB%E3%83%A9%E3%83%96%E3%83%BB%E3%82%BD%E3%83%B3%E3%82%B0%E3%82%92%E2%80%A6][天使にラブ・ソングを]] (/Tenshi ni Rabu Songu Wo/, "a Love Song to the Angels"), a film that is quite popular in Japan, though it is better known in English as [[https://en.wikipedia.org/wiki/Sister_Act][/Sister Act/]]. We had a lot of fun and it was a blast to finally have an opportunity to teach Latin again.
+#+begin_center
 
 [[yt:0q8dT8aJnHI]]
 #+begin_quote
 Hail Holy Queen with Japanese transcription and translation
 #+end_quote
-My second experience was after Pope Francis made his historic visit to Japan. Members of my congregation traveled to Nagasaki, where they attended a pontifical Mass. Being a symbol of the universal and international nature of the church, the ordinaries (/Kyrie/, /Gloria/, /Sanctus/, etc.) were sung in Latin. They were so impressed that upon returning to our small island, they were inspired to start a church choir.
+#+end_center
 
+My second experience was after Pope Francis made his historic visit to Japan. Members of my congregation traveled to Nagasaki, where they attended a pontifical Mass. Being a symbol of the universal and international nature of the church, the ordinaries (/Kyrie/, /Gloria/, /Sanctus/, etc.) were sung in Latin. They were so impressed that upon returning to our small island, they were inspired to start a church choir.
+#+begin_center
 #+begin_export html
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">さすがにびっくりしちゃった <a href="https://t.co/VYCeLTHMUI">pic.twitter.com/VYCeLTHMUI</a></p>&mdash; 渋谷すさの🐯 (@rgm79e) <a href="https://twitter.com/rgm79e/status/1198843222207823872?ref_src=twsrc%5Etfw">November 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 #+end_export
 #+begin_quote
 Pope Francis receives a traditional happi from the Japanese faithful.
 #+end_quote
+#+end_center
+
 We mostly sing Japanese hymns, such as [[https://www.youtube.com/watch?v=S2l1rp9Cy9U][マラナタ]] (/maranata/, “Maranatha”) or 幸せなかたマリア (/shiawasenakata Maria/, "Maria, the Joyful One"), and psalms such as 神よあなたの言葉は (/kami yo anata no kotoba wa/, "Lord, Your Word..."), but from time to time we sing グレゴリオ聖歌 (/guregorio seika/, “Gregorian chant”). In particular, we sing the [[https://www.youtube.com/watch?v=dG-gOLUnAN0&list=PLEz4GufIuIEaXyx9zBXdKy5X_Jzbsa92s][/Missa De Angelis/]] on special occasions such as Christmas and Easter, or for a visiting prelate. It is by far the most famous and widely sung Latin Mass settings.
 
 One thing to note is that Christian jargon differs widely by denomination: hymns, for example, which Catholics call 聖歌 (/seika/, “sacred songs”), but Protestants 讃美歌 (/sambika/, “songs of praise”).
 
 I’ve also had the honor of singing Bach’s “Ave Maria” in a duet at a local wedding. It was quite a beautiful ceremony. Traditional Japanese ceremonies do not involve music to a great degree, so Western chapel-style weddings are seen as more exciting. Many people dream of the white dresses, church music, . In fact, around two-thirds of weddings in Japan are now Western-style.
+#+begin_center
 
 [[yt:https://youtu.be/83aQEzXQ7_A]]
 #+begin_quote
 Bach’s “Ave Maria” sung in Japanese
 #+end_quote
+#+end_center
+
 In contrast, most Japanese funerals are Buddhist (~90%) and do not feature singing. I have attended several Christian wakes, which do, however, feature hymn singing. The singing is usually Japanese hymns, but when, due to an outbreak of COVID on our small island, we were unable to sing, Gregorian chant was softly played on the speakers before and after the ceremony proper.
 
 When it comes to singing Latin in Japan, there are two main problems:
@@ -50,8 +58,10 @@ Now, the Japanese difficulty in distinguishing between L and R is well documente
 To get around the limited writing system, Japanese uses the dakuten ゛diacritic to modify the syllables /ka-ki-ku-ke-ko/ into /ga-gi-gu-ge-go/, /sa-shi-su-se-so/ into /za-ji-zu-ze-zo/, /ta-chi-tsu-te-to/ into /da-ji-zu-de-do/, and /ha-hi-fu-he-ho/ into /ba-bi-bu-be-bo/, and use the handakuten ゜to modify /ha-hi-fu-he-ho/ into /pa-pi-pu-pe-po/. But using dakuten or handakuten with other syllables doesn’t work.
 
 However, while singing at Mass, I noticed something strange about the hymnal:
+#+begin_center
 #+CAPTION: Japanese phonetic transcription: グロ゚リア　イン　エクチエルシイス　デオ
 [[./img/gloria.png]]
+#+end_center
 
 The first thing you might notice is that some letters are subscripted. This would be like writing “guloria in ekuchierushiisu deo,” which seems like someone randomly activating their Caps-Lock. But, as I soon discovered, this is the linguistic equivalent of centering the neumes over the relevant vowel. “But,” I can hear you say, there are consonants!” To which I respond all Japanese kana consist either of a /vowel/ or an /initial consonant and its following vowel/ (or of the final consonant “n/m“), so it really is just showing which vowels to emphasize. Another way of thinking of it is as a Japanese [[https://en.wikipedia.org/wiki/Euouae][EUOUAE]], an abbreviation used in Gregorian chant to quickly show how to sing the latter half of a psalm tone by using the doxology as a model (et in secula seculorum amen).
 What struck me the most, however, was the katakana ro with a dakuten (ロ゚). Mystified, I showed it to my colleagues and they all said that they’d never seen such a thing. But, here it was in a professional Japanese publication. As it turns out, it is a way of transcribing the L sound that was tried but never widely adopted. One merely adds a dakuten to an R-series kana to indicate that it is an L sound. Sounds simple enough.
@@ -59,6 +69,9 @@ This way of using dakuten to distinguish L sounds from R sounds, although rare (
 * Wider Use of Latin
 Japan, having its own Classics tradition in addition to the study of Chinese Classics, does not have many places that offer opportunities to study Latin or Greek. A few universities have programs in Western Classics (e.g. Tokyo University, Chiba University, Sophia University), but it is quite rare. I have had the pleasure of attending lectures on several occasions by Dr. Akihiko Watanabe who specializes in Latin literature composed in or about Japan. Large bookstores, nevertheless, often carry Latin and Greek textbooks, many of which use English as an auxiliary language to gloss unfamiliar grammar terms. Amusingly enough, I encountered an incredibly-niche volume titled ラテン語からスペイン語 (/Ratengo kara Supeingo/, “From Latin to Spanish”), a Japanese-language guide to learning Spanish from Latin.
 Because of my familiarity with Latin, I was mistaken by some of my fellow parishioners as a member of Opus Dei, an organization made (in)famous by Dan Brown’s The Da Vinci Code, as well as asking if I were part of the Society of St. Pius X (SSPX), a canonically irregular fellowship of traditionalist bishops and priests.
+
 Members of Opus Dei operating in Japan, I learned, say their daily prayers in Latin, though I’m not aware to what degree Latin is used in the Mass. This is perhaps in part due to the small number of Christians in Japan, who make up less than 2% of the population: it is easier and more efficient for a small organization to use resources in a standardized liturgical language than to dedicate limited manpower to translation committees, especially when the language is not one of the main international languages (i.e. Italian, English, Spanish, French, German). When I visited cathedrals in Tokyo, Hiroshima, and Kagoshima, museum displays and reliquaries sometimes had descriptions in English, but more frequently used Latin. The Hiroshima Cathedral even has a dedication in Latin engraved on its facade that is quite lengthy.
+
 The SSPX appears to be operating in Japan, and there is another small Tridentine Latin Mass community in Tokyo (part of Una Voce), but the latter went into hiatus upon the passing of the celebrating priest. With the promulgation of Traditionis Custodes, a regulation that restricts the use of historic liturgy, it seems unlikely that it will revive. Of course, the use of Gregorian chant or Latin, is not limited to Tridentine Use, but I am not aware of any Ordinary Form community that regularly makes use of it to a large extent.
-Still, one of our older parishioners was quite nostalgic for the old chants. She explained that, while the Japanese translations definitely made the liturgy more accessible, she missed singing the old melodies. To illustrate her point, she sang the first line of the Pater Noster, which I completed. We actually made a game of it, testing each other’s memory of the old chants. As soon as we finished the Our Father, we progressed to the Nicene Creed. Given that we hadn’t sung them for years (or decades, in her case), we (and the onlookers) were surprised when we were able to make it all the way to the end. Despite us coming from opposite ends of the globe and not sharing a common language, we were able to sing and pray in unison. It was one of the most beautiful and memorable experiences I’ve had in Japan, and I know it will warm my heart for the rest of my days.
+
+Still, one of our older parishioners was quite nostalgic for the old chants. She explained that, while the Japanese translations definitely made the liturgy more accessible, she missed singing the old melodies. To illustrate her point, she sang the first line of the Pater Noster, which I completed. We actually made a game of it, testing each other’s memory of the old chants. As soon as we finished the Our Father, we progressed to the Nicene Creed. Given that we hadn’t sung them for years (or decades, in her case), we (and the onlookers) were surprised when we were able to make it all the way to the end. Despite us coming from opposite ends of the globe and not sharing a common language, we were able to sing and pray in unison. It was one of the most beautiful and memorable experiences I’ve had in Japan yet.

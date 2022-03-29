@@ -1,0 +1,82 @@
+#+TITLE: How to Say "Elevator" in Latin
+This post was inspired by and borrows from Mike Fontaine’s article in [[https://medium.com/in-medias-res/elevator-latin-a723c3b3f2a0][In Medias Res]] (via [[https://rogueclassicism.com/][rogueclassicism]]). Michael Fontaine is a professor of Classics at Cornell University.
+
+The Vatican City is the one place in the world where ATMs are programmed in Latin. Unfortunately, they give out modern money and not /sesterces/, /denarii/, or /aurei/. But if the Vatican ATMs are programmed in Latin, why not the elevators too?
+#+BEGIN_CENTER
+#+attr_html: :width 800px
+#+CAPTION: Automatum Monetale Vaticanense: INSERITO SCIDULAM QUAESO UT FACIUNDAM COGNOSCAS RATIONEM.  Photo credit: [[https://commons.wikimedia.org/wiki/File:Vatican_ATM_in_Latin.jpg][Seth Schoen, Wikimedia Commons]]
+[[./img/vatican_atm_in_latin.jpg]]
+#+END_CENTER
+As it turns out, they are!
+
+As any Latin speaker knows, there are rules you have to follow when adapting vocabulary for contemporary life. Latin is extremely conservative with its verbs, which were largely fossilized by the time of Cicero and Julius Caesar.  It is, however, much freer to adopt new nouns.  This should, nevertheless, be done sparingly, lest it return to the unmanageably immense vocabulary of Medieval technical Latin, with its philosophical /haecceitas/ and philological /illicitas/.
+
+#+begin_center
+#+attr_html: :width 800px
+#+CAPTION: The Latin elevator inscription in the Vatican. (Photo from Fontaine’s article)
+[[./img/elevator-inscription.png]]
+#+end_center
+
+Wow, the pope gets two elevators! The above inscription is for an elevator Pope Pius XII installed for curbside access, presumably supplanting an older elevator that was not so easy to get to from your /autoraeda/.  The inscription calls it an /anabathrum/, particularly /electrica vi actum/ (driven by electrical power).
+
+Several words exist in Latin for automobile: /raeda/, /currus/, /autocinetum/, and /autoraeda/. Although /currus/ means “chariot,” contemporary Latin speakers generally use it when referring to public vehicles such as a bus, whereas /raeda/ is preferred for a four-wheeled private vehicle.
+
+#+begin_center
+#+attr_html: :width 300px
+#+CAPTION:Pictured: a Roman /legionarius/ drives his /currus automatarius/.
+[[./img/chariot-segway.jpg]]
+#+end_center
+
+* Anabasis Anabathris 
+So, why /anabathrum/ and not some other word? After all, we know the Romans had advanced machines such as the water clock (κλεψύδρα), water organ (ὕδραυλις), and even the analog computer. We also know that certain devices were used in theaters to raise and lower actors and wild animals. Any drama or literature enthusiast will know of the deus ex machina where a god would be lowered from above onto the stage via crane. What is less known is that the Colosseum was equipped with trap-doors and elevators to raise beasts from the basement for gladiators to face. It was also equipped with sophisticated plumbing to flood the arena for mock naval battles, but hopefully they weren’t used at the same time.
+
+So what did they call elevators? Mike Fontaine explains:
+
+#+begin_quote
+[I]n 1932 […] Bacci had also used the seemingly more-suitable word /pegmata/ for it.
+#+end_quote
+
+(and here’s the definition)
+
+#+CAPTION: Lewis and Short, /s.v./ “/pegma/“
+#+begin_quote
+/Pēgma , -ătis, n. II. —B/. A piece of wooden machinery in the theatre, which rose and fell, opened and shut of itself, and with which players were suddenly raised aloft, /Sen. Ep. 88, 19; Plin. 33, 3, 16, § 53: “si automatum vel pegma vel quid tale aliud parum cessisset,” Suet. Claud. 34; Phaedr 5, 7, 7; Juv. 4, 122; Mart. 8, 33, 3; Vop. Carin. 19/.
+#+end_quote
+
+Seems good enough for me. So why /anabathrum/? Fontaine continues:
+
+#+begin_quote
+The key is realizing that by 1910, the word /anabathrum/ was was already in sporadic use in church Latin for a “pulpit.” And when you see what a pulpit looks like in any reasonably impressive European church, the metaphor clicks right into place. Imagine that wooden beauty slowly rising up the column it’s mounted on, and it all makes sense.
+#+end_quote
+
+In searching for a good word for the elevator, Angelinius decided to call the elevator an “electric pulpit.”
+
+* Ecce, anabathrum!
+
+#+begin_center
+#+attr_html: :width 400px
+#+CAPTION: The /anabathrum/ (pulpit) in Reims Cathedral ([[https://commons.wikimedia.org/wiki/File:Reims_cathedral_pulpit.jpg][source]])
+[[./img/anabathrum.jpg]]
+#+end_center
+
+My friend commented that anabathrum electricum has a certain Warhammer 40K vibe to it. I’m inclined to agree.
+* Tu ipse fac!
+If you want to make your own /anabathrum electrica vi actum/, I’m afraid I don’t have a forma for you to draw from, but here are some simple pittacia you can make:
+
+| (ire) deorsum, ascendere   | go up                             |
+| (ire) sursum, descendere   | go down                           |
+| sistere                    | stop                              |
+| valvas claudere            | close the doors                   |
+| valvas aperire             | open the doors                    |
+| pedeplanum                 | ground floor                      |
+| I^{um} tabellatum          | first artificial storey           |
+| II^{um} tabellatum         | second artificial storey          |
+| hypogaeum                  | basement                          |
+| cenaculum                  | penthouse                         |
+| malleolus (tactilis)       | button                            |
+| tintinnabulum pulsare      | to ring the alarm                 |
+| (adiutorem) vocare         | call for assistance               |
+| valetudinariis             | for the handicapped               |
+| in extremis, vitrum frangi | in case of emergency, break glass |
+
+If you haven’t already, please check out the excellent original article!

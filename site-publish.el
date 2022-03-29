@@ -52,7 +52,7 @@
 
  ("org-static-img"
  :base-directory "C:\\Users\\owner\\AppData\\Roaming\\.emacs.d\\docs\\blog\\daniel-persigehl.github.io\\org\\img\\"
- :base-extension "png"
+ :base-extension "png\\|jpg\\|gif"
  :publishing-directory "C:\\Users\\owner\\AppData\\Roaming\\.emacs.d\\docs\\blog\\daniel-persigehl.github.io\\public_html\\img\\"
  :recursive t
  :publishing-function org-publish-attachment

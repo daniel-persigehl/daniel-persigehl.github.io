@@ -1,0 +1,29 @@
+#+TITLE: Technology
+* τεχνολογία
+Technology derives from the ancient Greek τεχνολογία from the roots techne and logia, though technologia meant "systematic study of grammar."
+* φιλοσοφία τῆς τεχνολογίας ἡ καλή
+#+begin_center
+A Good Philosophy of Techonology
+#+end_center
+Technology should serve man, not in the sense of legions of robots submitting to their human masters, but in that the principal end of technology is the betterment of humanity.
+
+Thus, technological innovation should be done carefully and thoughtfully.  This is one reason I support the Free Software Movement, such as the use of GNU Emacs (the tool I used to, among other ends, create this site).
+
+The modern world is advancing at a breakneck pace. Not only is it important to learn how technology functions, but also how to use it wisely.
+
+The development and proliferation of new technologies affect societies in unpredictable ways, and this has always been the case. Similarly, new technologies color our views of the past.
+* Sustainability
+When I was younger, I always wanted the newest toys and latest gadgets. anything more than 5 years old was a relic. But, technology does not exist in a vacuum (except for tubes, I suppose). While technological progress is flashy and exciting, it is not always a net gain.  The positives are often apparent immediately (X-rays allow for easier medical diagnoses; plastics allow for food preservation), but negatives can sometimes take a long time to recognize (X-rays very easily cause cancer; microplastics [[https://www.theguardian.com/environment/2022/mar/24/microplastics-found-in-human-blood-for-first-time][potentially circulate]] in most people's blood).  Social media platforms allow humans to connect with distant family and friends, but also contribute significantly to depression and ideological polarizaton.
+
+Technology does not always move in a forward direction. Institutional knowledge can be forgotten, practical techniques lost between generations. The Eastern Romans forgot the recipe to their superweapon’s main ingredient. The modern generation of computer engineers forgot that electricity coursing through circuit boards generates magnetic fields. nearly 50% of URLs cited by the U.S. Supreme Court  between 2003 and 2014 have been lost forever, [[https://www.newyorker.com/magazine/2015/01/26/cobweb][according to a 2014 study]].
+
+* Accessibility
+No longer do you have to save the manuals that come bundled with tools you purchase. They are only a quick keyword search away as long as you have access to a computer or smart phone. Except that is not always the case. I remember from my childhood that programs like Microsoft Word came bundled with basic documentation and troubleshooting guides. Now, they instead embed search engines for their tech support fora. This is usually adequate for most purposes unless you are not connected to the Internet, in which case it is impossible to find even the most basic assistance.
+
+It is important to keep in mind that not everyone can interact with technology as ably as the normal user.  Some are non-native speakers and rely on machine-translation.  Others may be blind and rely on text/metadata-to-speech readers.
+
+I’m a big fan of the free software movement.  Over the past decade or so, I have become disillusioned with proprietary software and associated business models.  Don't get me wrong; they are incredibly useful.
+
+I’m a big fan of plain text.  It is the most basic form of encoding and the least likely to become obsolete even in the distant future.  Even should it become obsolete, the plain text is trivially easy to convert to other formats.  This is why I have largely migrated away from proprietary software like Microsoft Office or WordPerfect in favor of free software like GNU Emacs.
+* Recent Articles in this Category
+- [[file:typing-japanese.org][Typing Japanese]]

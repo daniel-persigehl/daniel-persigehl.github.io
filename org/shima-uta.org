@@ -5,7 +5,7 @@
 
 
 
-When people think of the traditional Japanese banjo, most associate it with the fast-paced and instrumental [[https://www.youtube.com/watch?v=m-9bVMKlfJM][/Tsugaru/ style]] or the traditional [][/naga-uta/] of Japanese theater such as [[https://youtu.be/Dk0QIGJKxoA?t=572][/kabuki/ opera]] or [[https://www.youtube.com/watch?v=Gz-pg8kq_Dk][/bunraku/ puppet theater]]. However, there is a great variety of styles that you may not know about. Along with other instruments such as the [[https://www.youtube.com/watch?v=JDTp_YQizqE][/koto/]], the [[https://www.youtube.com/watch?v=Sv2je9arNz4][/shakuhachi/ flute]], and the [[https://www.youtube.com/watch?v=lOo5O3qyqIk][/taiko/ drum]], the shamisen has a long history and each region of Japan has different traditions. I consider myself truly blessed to be able to tell you about the genre of SHIMA-UTA.
+When people think of the traditional Japanese banjo, most associate it with the fast-paced and instrumental [[https://www.youtube.com/watch?v=m-9bVMKlfJM][/Tsugaru/ style]] or the traditional /naga-uta/ of Japanese theater such as [[https://youtu.be/Dk0QIGJKxoA?t=572][/kabuki/ opera]] or [[https://www.youtube.com/watch?v=Gz-pg8kq_Dk][/bunraku/ puppet theater]]. However, there is a great variety of styles that you may not know about. Along with other instruments such as the [[https://www.youtube.com/watch?v=JDTp_YQizqE][/koto/]], the [[https://www.youtube.com/watch?v=Sv2je9arNz4][/shakuhachi/ flute]], and the [[https://www.youtube.com/watch?v=lOo5O3qyqIk][/taiko/ drum]], the shamisen has a long history and each region of Japan has different traditions. I consider myself truly blessed to be able to tell you about the genre of SHIMA-UTA.
 
 #+ATTR_HTML: padding-right: 50px
 #+begin_verse
@@ -61,9 +61,11 @@ Minor physical differences aside, the methods of playing the sanshin and singing
 
 Unlike the wedge-like plectrum used on the mainland or the Okinawan claw-like pick, Amamians use a thin strip of bamboo to pluck the strings. This creates a characteristic “clack” on downstrokes as well as a clean-sounding upstroke. Other than that, the easiest way to tell between an Okinawan sanshin and an Amami shamisen are the materials used for the strings: Okinawan strings are invariably white and thick, Amamian ones are always yellow and thin. Despite the body being virtually identical the combination of strings and pick results in a higher pitch. This is is also reflected in the characteristic falsetto of Amamian shima-uta. I found this out when I stayed in Okinawa one August to study Japanese during the day and the sanshin by night. My music tutor, being unfamiliar with Amamian shima-uta, kept trying to tune my shamisen for a few minutes before realizing that the strings were producing a different timbre.
 * The Songs of Shima-uta
+#+begin_center
 [[yt:R2ffKHsltMA]]
 
 Alice Sato performing “Kunnyori Yone Ago Bushi”
+#+end_center
 
 A fairly typical example of the song structure can be found in one of my favorite songs, “Kunnyori Yone Ago Bushi.” This cute little ditty follows the beautiful Miss Yone as various boys try to woo her. Keep in mind that this in a very difficult dialect; I make no claims as to the accuracy of my translation.
 |                            | Kun'nyori Yone Ago Bushi           |                                                   |
@@ -94,12 +96,15 @@ A fairly typical example of the song structure can be found in one of my favorit
 
 There are songs for many different occasions. For example, “Asabana Bushi” and “[[https://www.youtube.com/watch?v=2xKkv46km78][Ikyunnyakana]]” (Are You Leaving, My Love?) are standards played at virtually every festival and [[https://folkways-media.si.edu/liner_notes/folkways/FW04448.pdf][one folklorist]] even compared the former to the “Star-Spangled Banner” for its centrality in the canon. “[[https://www.youtube.com/watch?v=FgWt62I2Rjo][Rokucho]]” (Six Tones) is used to call everyone to the dance floor and bring an event to a spectacular close. Asobi-uta, such as Tokunoshima’s “[[https://www.youtube.com/watch?v=6iFQsg3eF4s][Chukkyari Bushi]],” are something of a game, where competing singers join in adding their own verses (which can be quite tongue-in-cheek). “[[https://www.youtube.com/watch?v=dmqxpz0jQc8][Ikin Kuduki]]” (Life Lesson Narrative) is traditionally sung at weddings to impart advice to those of all walks of life. “[[https://www.youtube.com/watch?v=d24iUs2a0ac][Tokunoshima Bushi]]” (or “[[https://www.youtube.com/watch?v=6y7OY-0XXsw][Intabu Bushi]]” as it’s known to locals) is a lament for the [[https://ja.wikipedia.org/wiki/%E7%8A%AC%E7%94%B0%E5%B8%83%E9%A8%92%E5%8B%95][peasant revolt]] of Inutabu village in 1864 against the Satsuma clan. There are also songs like “[[https://youtu.be/b4Nkj_kLRDg?t=46][Muchi Tabore]]” (Rice Cakes, Please!) where children canvas the town, dancing and singing, asking for rice cakes. Another genre is work songs, such as “[[https://www.youtube.com/watch?v=HGDxhoHKjDY][Inesuri-bushi]]” or “[[https://www.youtube.com/watch?v=1JXZ6SKHEIA][Taue Uta]]“.
 * The Future of Shima-uta
+#+begin_center
 [[yt:YW_-aexCxCk]]
 #+begin_quote
 Misawa Akemi sings her hit /shin-min’yo/ song “Shima no Blues.”
 
 Click [[file:shima-no-blues.org][here]] to read more about it.
 #+end_quote
+#+end_center
+
 Despite the gradual decline of shimaguchi, shima-uta is still a living musical tradition. Some public schools instruct students in shima-uta or have shamisen clubs and many community centers often ofter courses in playing the shamisen, folk dancing, or speaking in shimaguchi. Contemporary singers adapt have adapted traditional music to new genres. A few even compose new shima-uta songs (called shin-min’yo, “new folk music”). “[[https://www.youtube.com/watch?v=2l1cUguVO1o][Waido Bushi]]” is a perfect example of this; written in 1978 by Yutaka Tsuboyama (1930 – 2020), it’s since become the de facto anthem for Tokunoshima, an island famous for its [[https://en.wikipedia.org/wiki/T%C5%8Dgy%C5%AB][bull fights]]. Some songs incorporate older melodies, such as “[[https://www.youtube.com/watch?v=rwKcxyWfAnw][Erabu Yuri no Hana]],” which adapted the tune of “[[https://www.youtube.com/watch?v=qb5CqT_68Sg][Makura Bushi]]” (Pillow Song), but most are composed for a more popular audience, with lyrics in standard Japanese and performed with modern instrumentation.
 
 Although these songs have shed many elements of classical shima-uta, the songs invariably concern island life and are peppered with shimaguchi words and phrases (e.g. referring to one’s lover as “kana”). Some singers have even brought shin-min’yo to the national stage. Some examples are Tabata Yoshio who popularized “[[https://www.youtube.com/watch?v=gUmcKJK7UnA][Shima Sodachi]]” (Island Upbringing) after spending a few years living on Amami-Oshima, or Misawa Akemi and her hit song “[[https://www.youtube.com/watch?v=35Cyh7G1_oE][Shima no Blues]]” (Island Blues). These songs, mostly dating from the Amami Shin-min’yo boom of the 1960s, have since entered the shima-uta canon and are frequently played alongside more traditional numbers.

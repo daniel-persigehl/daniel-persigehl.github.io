@@ -1,0 +1,58 @@
+#+TITLE: The Music of RADWIMPS
+#+macro: ruby @@html:<ruby> $1<rp>(</rp><rt>$2</rt><rp>)</rp></ruby>@@@@latex:\ruby{$1}{$2}@@
+* The Raddest of Wimps
+English band names are far from unusual in Japan.  But "Rad" "wimp"
+
+Ever since I was in middle school, I had been listening to bootlegged Japanese music.  My absolute favorite band was RADWIMPS, which I can even remember how I first found out about them (a fan-made anime music video for the anime Durarara).  I couldn't understand their lyrics at all, I just knew that I loved them.
+
+And for a moody teenager, it was the perfect fit.
+* Pera-Pera Eigo
+One of the most notable things about RADWIMPS is their tendency to release English-language versions of their songs, even entire albums, such as the soundtracks for the anime films /your name/. and /Weathering with you/.
+
+As with any non-native speakers of a language, there are the occasional stumbles, such as with stress accent or unusual turns of phrase.  Nonetheless, it is extremely impressive and the quality is superb.  Lord knows my Japanese is far from perfect.
+
+#+begin_center
+yt:th8RmW9DinA
+
+#+begin_quote
+Frontman Yojiro Noda  translates for his bandmates during an interview with Gibson Guitars.
+#+end_quote
+#+end_center
+
+Take for example the lead single for /Weathering with you/.
+
+#+begin_center
+yt:EQ94zflNqn4
+
+「{{{ruby(愛,ai)}}}{{{ruby(に,ni)}}}{{{ruby(できる,dekiru)}}}{{{ruby(こと,koto)}}}{{{ruby(は,wa)}}}{{{ruby(まだ,mada)}}}{{{ruby(ある,aru)}}}{{{ruby(かい,kai)}}}」 (Japanese ver.)
+
+yt:P6uzlnLBFqU
+
+"Is There Still Anything That Love Can Do?" (English ver.)
+#+end_center
+
+The English versions are not exact translations.  Certain stylistic decisions are made, such as:
+| Japanese version                                                                                                                                               | English version                                            |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------|
+| {{{ruby(愛,ai)}}}{{{ruby(に,ni)}}}{{{ruby(できる,dekiru)}}}{{{ruby(こと,koto)}}}{{{ruby(は,wa)}}}{{{ruby(まだ,mada)}}}{{{ruby(ある,aru)}}}{{{ruby(かい,kai)}}} | I need to know if there's still anything that love can do? |
+| {{{ruby(僕,boku)}}}{{{ruby(に,ni)}}}{{{ruby(できる,dekiru)}}}{{{ruby(こと,koto)}}}{{{ruby(まだ,mada)}}}{{{ruby(ある,aru)}}}{{{ruby(かい,kai)}}}                | I need to know if there's still anything that I can do     |
+
+In the last chorus of the original song, this refrain changes to the following:
+
+| Japanese version                                                                                                                                            | translation                            |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------|
+| {{{ruby(愛,ai)}}}{{{ruby(に,ni)}}}{{{ruby(できる,dekiru)}}}{{{ruby(こと,koto)}}}{{{ruby(は,wa)}}}{{{ruby(まだ,mada)}}}{{{ruby(ある,aru)}}}{{{ruby(よ,yo)}}} | I know there's still something that love can do |
+| {{{ruby(僕,boku)}}}{{{ruby(に,ni)}}}{{{ruby(できる,dekiru)}}}{{{ruby(こと,koto)}}}{{{ruby(まだ,mada)}}}{{{ruby(ある,aru)}}}{{{ruby(よ,yo)}}}                | I know there's still something that I can do    |
+
+However, the English version keeps the question unresolved, asking it of the girl the song is addressed to.
+
+* Popularity
+RADWIMPS is an extremely popular band.  Active since 2003, they've been approched numerous times for record deals.  Choral and instrumental arrangements of their songs are quite popular.  I've attended several recitals where performers sang or played their music.
+
+#+begin_center
+yt:N8g4nAphYRM
+
+「{{{ruby(なん,nan)}}}{{{ruby(でも,demo)}}}{{{ruby(ない,nai)}}}{{{ruby(や,ya)}}}」 ("It's Nothing") from /your name./ arranged for 3-part mixed chorus.
+#+end_center
+* {{{ruby(野田,Noda)}}} {{{ruby(洋次郎,Yōjirō)}}}
+The band's frontman, Yojiro Noda is well-known in Japan.  He lived in the U.S. for 4 years in elementary school and picked up a love of music.
