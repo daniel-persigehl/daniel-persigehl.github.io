@@ -10,16 +10,22 @@ WELCOME to my personal blog!
 #+begin_center
 *Foreign Language*
 #+end_center
-| あの、これは「ペン」と言いますか。 |
-| いや、リンゴだ。                   |
+#+begin_center
+| あの、これは「ペン」と言いますか。 | Dic, quaeso, hoc sit "penna" annon. | Um, is this a "pen"? |
+| いや、リンゴだ。                   | Minime, hoc est malum.              | No, it's an apple.   |
+#+end_center
 Fear of embarrassment has never stopped me from learning a new language. Maybe reading about my story can help you learn one too.
 - Recent Articles:
+  - [[file:study-through-karaoke.org][The Karaoke Method^{TM} of Language Acquisition]]
   - [[file:./typing-japanese.org][Typing Japanese]]
   - [[./elevators-in-latin.org][Elevators in Latin]]
 * [[./studiaclassica.org][STVDIA·CLASSICA]]
 #+begin_center
 *Latin and Greek*
 #+end_center
+
+#+STYLE: <style>table.center {margin-left:auto; margin- right:auto;}</style>
+#+attr_html: class="center"
 | Ἄνδρα μοι ἔννεπε, Μοῦσα, πολύτροπον, ὃς μάλα πολλὰ | Ex his ipsis cultis notisque terris num aut tuum            |
 | πλάγχθη, ἐπεὶ Τροίης ἱερὸν πτολίεθρον ἔπερσε·      | aut cuiusquam nostrum nomen vel Caucasum hunc, quem cernis, |
 | πολλῶν δ’ ἀνθρώπων ἴδεν ἄστεα καὶ νόον ἔγνω,       | transcendere potuit vel illum Gangem tranatare?             |
@@ -41,6 +47,7 @@ Languages, like wines, grow more refined with age, and these are among the oldes
 | にゃ{{{ruby(何時,いち)}}}頃{{{ruby(拝,うが)}}}むかい                | How soon can we meet?      |
 Join me as I learn about traditional forms of music like Gregorian chant or Japanese [[file:shima-uta.org][/shima-uta/]].  Click here to see my posts related to various styles of music.
 - Recent Articles
+  - [[file:study-through-karaoke.org][The Karaoke Method^{TM} of Language Acquisition]]
   - [[file:music-of-radwimps.org][the Music of RADWIMPS]]
   - [[file:shima-no-blues.org][島のブルース ("Shima no Blues")]]
   - [[file:gregorian-chant-japan.org][Gregorian Chant in Japan]]

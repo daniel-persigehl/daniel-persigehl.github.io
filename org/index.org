@@ -11,3 +11,4 @@
 - [[file:typing-japanese.org][Typing Japanese]]
 - [[file:music-of-radwimps.org][The Music of RADWIMPS]]
 - [[file:technology.org][Technology]]
+- [[file:study-through-karaoke.org][Studying Language through Karaoke]]

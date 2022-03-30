@@ -7,47 +7,44 @@ Ever since I was in middle school, I had been listening to bootlegged Japanese m
 
 And for a moody teenager, it was the perfect fit.
 * Pera-Pera Eigo
-One of the most notable things about RADWIMPS is their tendency to release English-language versions of their songs, even entire albums, such as the soundtracks for the anime films /your name/. and /Weathering with you/.
+One of the most notable things about RADWIMPS is their tendency to release English-language versions of their songs, even entire albums, such as the soundtracks for the anime films /your name./ and /Weathering with You/.
 
 As with any non-native speakers of a language, there are the occasional stumbles, such as with stress accent or unusual turns of phrase.  Nonetheless, it is extremely impressive and the quality is superb.  Lord knows my Japanese is far from perfect.
 
-#+begin_center
-yt:th8RmW9DinA
 
-#+begin_quote
-Frontman Yojiro Noda  translates for his bandmates during an interview with Gibson Guitars.
-#+end_quote
-#+end_center
-
-Take for example the lead single for /Weathering with you/.
+Take, for example, 「{{{ruby(愛,ai)}}}{{{ruby(に,ni)}}}{{{ruby(できる,dekiru)}}}{{{ruby(こと,koto)}}}{{{ruby(は,wa)}}}{{{ruby(まだ,mada)}}}{{{ruby(ある,aru)}}}{{{ruby(かい,kai)}}}」, the lead single for /Weathering with You/.
 
 #+begin_center
 yt:EQ94zflNqn4
 
 「{{{ruby(愛,ai)}}}{{{ruby(に,ni)}}}{{{ruby(できる,dekiru)}}}{{{ruby(こと,koto)}}}{{{ruby(は,wa)}}}{{{ruby(まだ,mada)}}}{{{ruby(ある,aru)}}}{{{ruby(かい,kai)}}}」 (Japanese ver.)
+#+end_center
 
+Now compare it with the English version.  Note the use of rhyme (and slant rhyme), which is inherently English and not Japanese (which favors parallelism).
+
+#+begin_center
 yt:P6uzlnLBFqU
 
 "Is There Still Anything That Love Can Do?" (English ver.)
 #+end_center
 
-The English versions are not exact translations.  Certain stylistic decisions are made, such as:
+As any linguist knows, English versions are never exact translations.  Certain stylistic decisions must be made, such as how directly to translate metaphors and how much to adapt to idioms in the target language.  A 100% literal translation would, outside of a scholarly context, be quite painful to read.  However, these decisions can sometimes affect the entire tenor of a song.  Take, for example, the chorus that repeats throughout the song:
 | Japanese version                                                                                                                                               | English version                                            |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------|
 | {{{ruby(愛,ai)}}}{{{ruby(に,ni)}}}{{{ruby(できる,dekiru)}}}{{{ruby(こと,koto)}}}{{{ruby(は,wa)}}}{{{ruby(まだ,mada)}}}{{{ruby(ある,aru)}}}{{{ruby(かい,kai)}}} | I need to know if there's still anything that love can do? |
 | {{{ruby(僕,boku)}}}{{{ruby(に,ni)}}}{{{ruby(できる,dekiru)}}}{{{ruby(こと,koto)}}}{{{ruby(まだ,mada)}}}{{{ruby(ある,aru)}}}{{{ruby(かい,kai)}}}                | I need to know if there's still anything that I can do     |
 
-In the last chorus of the original song, this refrain changes to the following:
+In the last chorus of the original song, the interrogative particle {{{ruby(かい,kai)}}} is changed to the emphatic particle {{{ruby(よ,yo)}}}:
 
-| Japanese version                                                                                                                                            | translation                            |
+| Japanese chorus (final)                                                                                                                         | Meaning                     |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------|
-| {{{ruby(愛,ai)}}}{{{ruby(に,ni)}}}{{{ruby(できる,dekiru)}}}{{{ruby(こと,koto)}}}{{{ruby(は,wa)}}}{{{ruby(まだ,mada)}}}{{{ruby(ある,aru)}}}{{{ruby(よ,yo)}}} | I know there's still something that love can do |
-| {{{ruby(僕,boku)}}}{{{ruby(に,ni)}}}{{{ruby(できる,dekiru)}}}{{{ruby(こと,koto)}}}{{{ruby(まだ,mada)}}}{{{ruby(ある,aru)}}}{{{ruby(よ,yo)}}}                | I know there's still something that I can do    |
+| {{{ruby(愛,ai)}}}{{{ruby(に,ni)}}}{{{ruby(できる,dekiru)}}}{{{ruby(こと,koto)}}}{{{ruby(は,wa)}}}{{{ruby(まだ,mada)}}}{{{ruby(ある,aru)}}}{{{ruby(よ,yo)}}} | I *know* there's still something that love can do |
+| {{{ruby(僕,boku)}}}{{{ruby(に,ni)}}}{{{ruby(できる,dekiru)}}}{{{ruby(こと,koto)}}}{{{ruby(まだ,mada)}}}{{{ruby(ある,aru)}}}{{{ruby(よ,yo)}}}                | I *know* there's still something that I can do  |
 
-However, the English version keeps the question unresolved, asking it of the girl the song is addressed to.
+This change of a single word brings the entire song to a satisfying conclusion.  However, the English version leaves the chorus unchanged, keeping the question posed to the girl the song is addressed to unresolved.
 
 * Popularity
-RADWIMPS is an extremely popular band.  Active since 2003, they've been approched numerous times for record deals.  Choral and instrumental arrangements of their songs are quite popular.  I've attended several recitals where performers sang or played their music.
+RADWIMPS is an extremely popular band, to the point where I'll walk into a FamilyMart and they'll be playing on the radio.  Active since 2003, they've been approched numerous times for record deals.  Choral and instrumental arrangements of their songs are quite popular.  I've attended several recitals where performers sang or played their music, not to mention the countless times I've heard their songs sung at a karaoke bar.
 
 #+begin_center
 yt:N8g4nAphYRM
@@ -55,4 +52,9 @@ yt:N8g4nAphYRM
 「{{{ruby(なん,nan)}}}{{{ruby(でも,demo)}}}{{{ruby(ない,nai)}}}{{{ruby(や,ya)}}}」 ("It's Nothing") from /your name./ arranged for 3-part mixed chorus.
 #+end_center
 * {{{ruby(野田,Noda)}}} {{{ruby(洋次郎,Yōjirō)}}}
-The band's frontman, Yojiro Noda is well-known in Japan.  He lived in the U.S. for 4 years in elementary school and picked up a love of music.
+The band's frontman, Yojiro Noda, is well-known in Japan.  He lived in the U.S. for 4 years in elementary school and picked up a love of music.  I wish my Japanese could be as good as his English.
+#+begin_center
+yt:th8RmW9DinA
+
+Frontman Yojiro Noda  translates for his bandmates during an interview with Gibson Guitars.
+#+end_center

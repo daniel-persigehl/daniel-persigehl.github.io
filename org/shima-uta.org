@@ -1,17 +1,15 @@
 #+macro: ruby @@html:<ruby> $1<rp>(</rp><rt>$2</rt><rp>)</rp></ruby>@@@@latex:\ruby{$1}{$2}@@
-#+TITLE: {{{ruby(奄美,Amami)}}}{{{ruby(の,no)}}}{{{ruby(島唄,)Shima-uta}}}
+#+TITLE: {{{ruby(奄美,Amami)}}}{{{ruby(の,no)}}}{{{ruby(島唄,Shima-uta)}}}
 * What is Shima-Uta?
-#+ATTR_HTML: :style float: right;margin:20px 20px 20px 20px;
+#+begin_center
 [[yt:_CMEKV-meSU?t=70]]
 
-
+/Kizuki Minami performs traditional folk song/ “Yoi Sura Bushi” /on/ Meikyoku Nippon.
+#+end_center
 
 When people think of the traditional Japanese banjo, most associate it with the fast-paced and instrumental [[https://www.youtube.com/watch?v=m-9bVMKlfJM][/Tsugaru/ style]] or the traditional /naga-uta/ of Japanese theater such as [[https://youtu.be/Dk0QIGJKxoA?t=572][/kabuki/ opera]] or [[https://www.youtube.com/watch?v=Gz-pg8kq_Dk][/bunraku/ puppet theater]]. However, there is a great variety of styles that you may not know about. Along with other instruments such as the [[https://www.youtube.com/watch?v=JDTp_YQizqE][/koto/]], the [[https://www.youtube.com/watch?v=Sv2je9arNz4][/shakuhachi/ flute]], and the [[https://www.youtube.com/watch?v=lOo5O3qyqIk][/taiko/ drum]], the shamisen has a long history and each region of Japan has different traditions. I consider myself truly blessed to be able to tell you about the genre of SHIMA-UTA.
 
-#+ATTR_HTML: padding-right: 50px
 #+begin_verse
-/Kizuki Minami performs traditional folk song/ “Yoi Sura Bushi” /on/ Meikyoku Nippon.
-
 When sailing out to the sea, we pray, /yoi sura/
 We pray she will keep us safe, /yoi sura/
 	---“Yoi Sura Bushi,” /trans. Miyata Tomoko/
@@ -25,9 +23,9 @@ Despite being widely considered a form of Japanese, the Ryukyuan dialects are mu
 Atari Kousuke, Hajime Chitose, et al. singing “Asabana Bushi”
 
 Asabana Bushi is the traditional kick off to a shima-uta performance, sung in the native tongues of the islanders. Like many other songs, the ballad concerns two lovers eager to meet up again and is usually sung by alternating male and female singers. But the lyrics are part of a dialogue with the audience; travel was historically dangerous and expensive, so it would be a long time before someone leaving the village (shima) comes back again, if ever. Travel outside of the shima was so rare that even neighboring villages had different dialects and two people from the same island might have difficulty understanding each other.
-
-#+ATTR_HTML: :style float: right;margin:20px 20px 20px 20px;
+#+begin_center
 [[yt:CCZK9bDM5J4]]
+#+end_center
 
 
 #+begin_verse
