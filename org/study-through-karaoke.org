@@ -1,0 +1,41 @@
+#+TITLE: The Karaoke Method^{TM} of Language Acquisition
+#+macro: ruby @@html:<ruby> $1<rp>(</rp><rt>$2</rt><rp>)</rp></ruby>@@@@latex:\ruby{$1}{$2}@@
+* Rock It, Man!
+I was watching Netflix original series "Away" when in episode 3, Mei takes Lu to a karaoke bar (read the recap [[https://www.vulture.com/article/away-episode-three-season-one-recap-half-the-sky.html][here]]).  Lu is initially skeptical and is hesitant to try it out, but when she sees Mei pouring her heart out to Elton John's "Rocket Man," she decides to give it a shot.
+
+By the end, she's singing about her "Achy Breaky Heart."
+
+As I was watching, I was like "This mirrors my experience exactly."
+#+begin_center
+yt:q09Gs6e5XVI yt:2pySD94Q1Yw
+
+"YOKAZE" by {{{ruby(変態,Hentai)}}}{{{ruby(紳士,Shinshi)}}}{{{ruby(クラブ,Club)}}}.  Left: MV; Right: {{{ruby(カラオケ,karaoke)}}} version.
+#+end_center
+
+It is great for testing yourself on speed-reading as well as teaching vocabulary.  Japanese songs usually (though not always) provide {{{ruby(振,ふ)}}}り{{{ruby(仮名,がな)}}} (/furigana/, "pronunciation guides") for their lyrics, so you'll quickly learn new kanji.
+
+Being one of the only English speakers on a {{{ruby(離島,ritō)}}} (remote island) has been good for my Japanese (though I apparently have a hick accent) as I'm fully immersed in the language day in and day out.  Besides immersion, however, the next best thing for my Japanese has been singing.  I sing in three choirs: the community choir, the local church choir, and take a folk music class.  And, on top of that, I hog the mic whenever work parties take me to a karaoke joint.
+#+begin_center
+[[yt:ojSMIdcCcdI]]
+
+「{{{ruby(残酷,Zankoku)}}}{{{ruby(な,na)}}}{{{ruby(天使,Tenshi)}}}{{{ruby(の,no)}}}{{{ruby(テーゼ,Tēze)}}}」 ("Cruel Angel's Thesis"), the all-time karaoke classic.  For a sing-along version, [[https://www.youtube.com/watch?v=o6wtDPVkKqI][click here]]  (enable Japanese-language subtitles).
+#+end_center
+
+If this has whet your appetite for singing, it may be time to level up:
+* Singing in Chorus
+Within a month of coming to Japan, I knew I needed to join a club.  So, I asked the resident tour guide and {{{ruby(英会話,eikaiwa)}}} (English Conversation) teacher if there were any choirs on the island.  I thought I'd bitten off more than I could chew (they were much more intense than the village choir).  But, 4 years in, I'm glad I stuck with them.
+
+#+begin_center
+yt:-y67husGAyc
+
+「{{{ruby(たしか,Tashika)}}}{{{ruby(な,na)}}}{{{ruby(こと,Koto)}}}」, a song I recently sang with the local community chorus.
+#+end_center
+In addition to karaoke, singing in a chorus provides a really good opportunity to learn a foreign language better.  With regard to Japanese, you will really learn your hiragana and katakana as well as the language's phonetic inventory.  The reason should be obvious: if you're singing along with others, you'll know straight away if your pronunciation is off.
+
+#+begin_center
+yt:XyPsS-Pak0Y
+
+{{{ruby(聖霊,Seirei)}}}{{{ruby(の,no)}}}{{{ruby(続唱,Zokushō)}}} (Sequence for Pentecost), #352 in the Catholic {{{ruby(典礼,tenrei)}}}{{{ruby(聖歌,seika)}}} hymnal.
+#+end_center
+
+Singing in a church choir is also a good way of learning Japanese, if that appeals to you.  They're always happy to have new members.  I know several singers who, despite not being Christian, enjoy hymns enough to be cantors in the local church choir.  It certainly gives an opportunity to learn both religious vocabulary as well as Classical Japanese (many traditional hymns are written with archaic vocabulary and grammar).  In my experience, however, this is more advanced than singing in a secular choir: hymnals are much more kanji-heavy than score sheets.
