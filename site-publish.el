@@ -2,17 +2,17 @@
 (setq org-publish-project-alist
  '(
     ("org-inherit"
-  :base-directory "C:\\Users\\owner\\AppData\\Roaming\\.emacs.d\\docs\\blog\\daniel-persigehl.github.io\\"
+  :base-directory "C:\\Users\\owner\\.emacs.d\\docs\\blog\\daniel-persigehl.github.io\\"
   :recursive t
   :base-extension "css\\|js"
-  :publishing-directory  "C:\\Users\\owner\\AppData\\Roaming\\.emacs.d\\docs\\blog\\daniel-persigehl.github.io\\public_html\\"
+  :publishing-directory  "C:\\Users\\owner\\.emacs.d\\docs\\blog\\daniel-persigehl.github.io\\public_html\\"
   :publishing-function org-publish-attachment
   )
 
 ("org-source"  ;org-source files to be transformed into html files
- :base-directory "C:\\Users\\owner\\AppData\\Roaming\\.emacs.d\\docs\\blog\\daniel-persigehl.github.io\\org\\"
+ :base-directory "C:\\Users\\owner\\.emacs.d\\docs\\blog\\daniel-persigehl.github.io\\org\\"
  :base-extension "org"
- :publishing-directory "C:\\Users\\owner\\AppData\\Roaming\\.emacs.d\\docs\\blog\\daniel-persigehl.github.io\\public_html\\"
+ :publishing-directory "C:\\Users\\owner\\.emacs.d\\docs\\blog\\daniel-persigehl.github.io\\public_html\\"
  :recursive t
  :publishing-function org-html-publish-to-html
  :headline-levels 1
@@ -44,24 +44,24 @@
  ("org-static"
  :base-directory "C:\\Users\\userid\\Documents\\org-mode\\publish_html\\org\\"
  :base-extension "xml\\|css\\|js\\|png\\|jpg\\|gif\\|pdf\\|mp3\\|ogg\\|swf"
- :publishing-directory "C:\\Users\\owner\\AppData\\Roaming\\.emacs.d\\docs\\blog\\daniel-persigehl.github.io\\public_html\\"
+ :publishing-directory "C:\\Users\\owner\\.emacs.d\\docs\\blog\\daniel-persigehl.github.io\\public_html\\"
  :recursive t
  :publishing-function org-publish-attachment
  :section-numbers t
  )
 
  ("org-static-img"
- :base-directory "C:\\Users\\owner\\AppData\\Roaming\\.emacs.d\\docs\\blog\\daniel-persigehl.github.io\\org\\img\\"
+ :base-directory "C:\\Users\\owner\\.emacs.d\\docs\\blog\\daniel-persigehl.github.io\\org\\img\\"
  :base-extension "png\\|jpg\\|gif"
- :publishing-directory "C:\\Users\\owner\\AppData\\Roaming\\.emacs.d\\docs\\blog\\daniel-persigehl.github.io\\public_html\\img\\"
+ :publishing-directory "C:\\Users\\owner\\.emacs.d\\docs\\blog\\daniel-persigehl.github.io\\public_html\\img\\"
  :recursive t
  :publishing-function org-publish-attachment
  )
 
  ("org-static-css"
- :base-directory "C:\\Users\\owner\\AppData\\Roaming\\.emacs.d\\docs\\blog\\daniel-persigehl.github.io\\org\\css\\"
+ :base-directory "C:\\Users\\owner\\.emacs.d\\docs\\blog\\daniel-persigehl.github.io\\org\\css\\"
  :base-extension "css"
- :publishing-directory "C:\\Users\\owner\\AppData\\Roaming\\.emacs.d\\docs\\blog\\daniel-persigehl.github.io\\public_html\\css\\"
+ :publishing-directory "C:\\Users\\owner\\.emacs.d\\docs\\blog\\daniel-persigehl.github.io\\public_html\\css\\"
  :recursive t
  :publishing-function org-publish-attachment
  )
