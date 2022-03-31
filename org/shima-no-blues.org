@@ -1,5 +1,5 @@
 #+macro: ruby @@html:<ruby> $1<rp>(</rp><rt>$2</rt><rp>)</rp></ruby>@@@@latex:\ruby{$1}{$2}@@
-#+TITLE: {{{ruby(島,Shima)}}}{{{ruby(の,no)}}}{{{ruby(ブルース,Blues)}}}
+#+TITLE: 島のブルース
 * Shima no Blues
 #+begin_center
 [[yt:2dMVNAHaz7Q]]

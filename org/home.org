@@ -1,4 +1,4 @@
-#+TITLE: {{{ruby(ダニエル,Daniel)}}}{{{ruby(先生,Sensei)}}}{{{ruby(の,no)}}}{{{ruby(ブログ,Blog)}}}
+#+TITLE: ダニエル先生のブログ
 #+macro: ruby @@html:<ruby> $1<rp>(</rp><rt>$2</rt><rp>)</rp></ruby>@@@@latex:\ruby{$1}{$2}@@
 * Hello. SALVE. こんにちは。Χαῖρε. Bonjour. きゅーうがめーら。
 My name is Daniel and I'm a language instructor.
