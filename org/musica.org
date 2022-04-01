@@ -1,0 +1,61 @@
+#+TITLE: Ars Musica
+* What is Music?
+
+#+begin_center
+[[file:./img/hd-musica.jpg]]
+#+begin_quote
+/Musica sum, late doctrix artis variate/
+
+"Music am I, the teacher of an art greatly varied."
+#+end_quote
+#+end_center
+* One of the Quadrivium
+#+begin_center
+[[./img/artes-liberales.jpg]]
+
+Depiction of the 7 Liberal Arts from the 12th c. manuscript /Hortus deliciarum/.
+
+Clockwise from the top: /Grammar/, /Rhetoric/, /Logic/, /Music/, /Arithmetic/, /Geometry/, and /Astronomy/.  /Philosophy/ is enthroned in the center.
+#+end_center
+
+The traditional Liberal Arts curriculum traces its origins back over 2,000 years to the /artes liberales/ or /humaniores/ of ancient Greece and Rome, the skills fitting the education of freemen.  It was codified into two sets of skills, of which the consisted of grammar, logic, and rhetoric.  These were the basic skills on which all others depend and which formed the basis of elementary or grammar school.
+
+The ancient mystic Pythagoras to whom the discovery of the mathematical rule (here given by Euclid) /ἐν τοῖς ὀρθογωνίοις τριγώνοις τὸ ἀπὸ τῆς τὴν ὀρθὴν γωνίαν ὑποτεινούσης πλευρᾶς τετράγωνον ἴσον ἐστὶ τοῖς ἀπὸ τῶν τὴν ὀρθὴν γωνίαν περιεχουσῶν πλευρῶν τετραγώνοις/ (/a^{2}+b^{2}=c^{2}/ in modern notation) is attributed,[fn:1]  favored a more advanced set of skills.  This is of course because he was no school teacher, but a philosopher and teacher of men.  He placed particular emphasis on the mathematical skills of arithmetic, geometry, music, and astronomy.
+
+Pythagoras linked astronomy with music, as astronomy relies on complex mathematical models, and music is the real-world manifestation of math.
+
+#+begin_quote
+(17) Quam cum magis intuerer: 'Quaeso,' inquit Africanus, 'quousque humi defixa tua mens erit? Nonne aspicis, quae in templa veneris? Novem tibi orbibus vel potius globis conexa sunt omnia, quorum unus est caelestis, extimus, qui reliquos omnes complectitur, summus ipse deus arcens et continens ceteros; in quo sunt infixi illi, qui volvuntur, stellarum cursus sempiterni. Cui subiecti sunt septem, qui versantur retro contrario motu atque caelum. Ex quibus summum globum possidet illa, quam in terris Saturniam nominant. Deinde est hominum generi prosperus et salutaris ille fulgor, qui dicitur Iovis; tum rutilus horribilisque terris, quem Martium dicitis; deinde subter mediam fere regionem Sol obtinet, dux et princeps et moderator luminum reliquorum, mens mundi et temperatio, tanta magnitudine, ut cuncta sua luce lustret et compleat. Hunc ut comites consequuntur Veneris alter, alter Mercurii cursus, in infimoque orbe Luna radiis solis accensa convertitur. Infra autem iam nihil est nisi mortale et caducum praeter animos munere deorum hominum generi datos; supra Lunam sunt aeterna omnia. Nam ea, quae est media et nona, Tellus, neque movetur et infima est, et in eam feruntur omnia nutu suo pondera.'
+
+(18) Quae cum intuerer stupens, ut me recepi: 'Quid hic?' inquam, 'quis est, qui complet aures, tantus et tam dulcis sonus?' 'Hic est,' inquit, 'ille, qui intervallis disiunctus imparibus, sed tamen pro rata parte distinctis, impulsu et motu ipsorum orbium efficitur et acuta cum gravibus temperans varios aequabiliter concentus efficit; nec enim silentio tanti motus incitari possunt, et natura fert, ut extrema ex altera parte graviter, ex altera autem acute sonent. Quam ob causam summus ille caeli stellifer cursus, cuius conversio est concitatior, acuto et excitato movetur sono, gravissimo autem hic lunaris atque infimus; nam terra nona immobilis manens una sede semper haeret complexa medium mundi locum. Illi autem octo cursus, in quibus eadem vis est duorum, septem efficiunt distinctos intervallis sonos, qui numerus rerum omnium fere nodus est; quod docti homines nervis imitati atque cantibus aperuerunt sibi reditum in hunc locum, sicut alii, qui praestantibus ingeniis in vita humana divina studia coluerunt. (19) Hoc sonitu oppletae aures hominum obsurduerunt; nec est ullus hebetior sensus in vobis, sicut, ubi Nilus ad illa, quae Catadupa nominantur, praecipitat ex altissimis montibus, ea gens, quae illum locum accolit, propter magnitudinem sonitus sensu audiendi caret. Hic vero tantus est totius mundi incitatissima conversione sonitus, ut eum aures hominum capere non possint, sicut intueri solem adversum nequitis, eiusque radiis acies vestra sensusque vincitur.'
+
+Haec ego admirans referebam tamen oculos ad terram identidem.
+
+-- Cicero.  "Somnium Scipionis," /De Republica/.
+#+end_quote
+
+#+begin_quote
+/Arte regens dia que sunt ego Philosophia, subjectas artes in septem divido partes/.
+
+"With divine skill (/ars/), I, Philosophy, rule over all arts and divide them into seven parts."
+#+end_quote
+
+#+begin_quote
+/Omnis sapientia a domino deo est.  Soli quod desiderant facere possunt sapientes/
+
+"All wisdom comes from the Lord God (/Sir/. 1:1); only wise men can do what they will (Boethius, /Consolatio/ IV, 2)."
+#+end_quote
+* [[file:./shimauta.org][Shima Uta]]
+For several years now, I have lived on one of the Amami islands which lie between Okinawa and the Japanese mainland.  These southern islands possess a unique culture and their own family of languages (not merely dialects).  I have been taking music lessons in playing the shamisen and singing these beautiful folk songs.  Click [[file:./shimauta.org][here]] to learn more about them.
+* Japanese Music
+In addition to Shima-uta, I also enjoy contemporary music.  From time to time, I may make posts about various topics relating to modern Japanese music and artits.
+* Articles in this Category
+- [[file:./study-through-karaoke.org][The Karaoke Method^{TM} of Language Acquisition]]
+- [[file:./music-of-radwimps.org][The Music of RADWIMPS]]
+- [[file:./gregorian-chant-japan.org][Gregorian Chant in Japan]]
+- [[file:./shimauta.org][Shima-uta]]
+  - [[file:./shimanoburusu.org][Shima no Blues]]
+
+* Footnotes
+
+[fn:1] It is not known whether Pythagoras actually discovered the theorem, nor do his writings survive.  The above formulation is taken from Euclid's /Elementa/ 1.47.

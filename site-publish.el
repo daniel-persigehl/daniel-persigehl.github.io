@@ -30,7 +30,22 @@
 ; :with-drawers t
  :auto-preamble t
  :auto-postamble t
- :html-preamble "<header><h1><a href=\"homepage.html\">Quo usque tandem abutere, Daniel, patientia nostra?...</a></h1></header>"
+ :html-preamble "<header><h1><a href=\"homepage.html\">Quo usque tandem abutere, Daniel, patientia nostra?...</a></h1></header>
+<div class='nav'>
+<img src='./img/quousque-header.png' alt='Guess what?' />
+<ul>
+  <li><a href='./homepage.html'>Home</a>.</li>
+  <li><a href='./studiaclassica.html'>Classical Studies</a>.</li>
+  <li><a href='./musica.html'>Music</a>.</li>
+<ul>
+  <li><a href='./shimauta.html'>Shima Uta</a>.</li>
+</ul>
+  <li><a href='./technology.html'>Technology</a></li>
+  <li><a href='./about-me.html'>About Me</a></li>
+  <li><a href='./about-site.html'>About Site</a></li>
+</ul>
+</div>
+"
  :html-postamble "<hr><p class=\"date\">Created %d by %a</p><div id=\"created\"><p>Last updated %T</p></div>"
  :html-link-up "index.html"
  :table-of-contents t

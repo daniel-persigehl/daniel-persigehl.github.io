@@ -2,6 +2,7 @@
 
 - [[file:about-site.org][About This Site]]
 - [[file:studiaclassica.org][STVDIA·CLASSICA]]
+- [[file:about-me.org][About Daniel]]
 - [[file:gregorian-chant-japan.org][gregorian-chant-japan]]
 - [[file:typing-japanese.org][Typing Japanese]]
 - [[file:elevators-in-latin.org][How to Say "Elevator" in Latin]]
@@ -11,3 +12,4 @@
 - [[file:shimauta.org][奄美の島唄]]
 - [[file:shima-no-burusu.org][島のブルース]]
 - [[file:homepage.org][ダニエル先生のブログ]]
+- [[file:musica.org][Ars Musica]]
