@@ -1,4 +1,5 @@
 (require 'ox-publish)  ;C-x C-e to load org-publish
+;; whatever you do, do NOT include org macros (e.g. ruby text)in the title
 (setq org-publish-project-alist
  '(
     ("org-inherit"
@@ -29,7 +30,7 @@
 ; :with-drawers t
  :auto-preamble t
  :auto-postamble t
- :html-preamble "<header><h1><a href=\"home.html\">Quo usque tandem abutere, Daniel, patientia nostra?...</a></h1></header>"
+ :html-preamble "<header><h1><a href=\"homepage.html\">Quo usque tandem abutere, Daniel, patientia nostra?...</a></h1></header>"
  :html-postamble "<hr><p class=\"date\">Created %d by %a</p><div id=\"created\"><p>Last updated %T</p></div>"
  :html-link-up "index.html"
  :table-of-contents t
