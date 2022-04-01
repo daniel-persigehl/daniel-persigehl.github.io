@@ -69,6 +69,8 @@
 
  ("myproject" :components ( "org-inherit" "org-source"  "org-static"  "org-static-img" "org-static-css"))
  ))
+(org-publish "myproject" t)
+
 
 ;; C-x C-e and repeat after every change to org-publish-project-alist.el
 ;; M-x org-publish-project RET org RET

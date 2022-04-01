@@ -100,7 +100,7 @@ There are songs for many different occasions. For example, “Asabana Bushi” a
 #+begin_quote
 Misawa Akemi sings her hit /shin-min’yo/ song “Shima no Blues.”
 
-Click [[file:shima-no-blues.org][here]] to read more about it.
+Click [[file:shima-no-burusu.org][here]] to read more about it.
 #+end_quote
 #+end_center
 
@@ -120,7 +120,7 @@ Compare the different approaches contemporary singers have taken to “Hounen Bu
 
 The Amami islands have a vibrant musical culture, one which I hope dearly will continue to thrive.
 * Articles in this Category
-- [[file:shima-no-blues.org][島のブルース ("Shima no Blues")]]
+- [[file:shima-no-burusu.org][島のブルース ("Shima no Blues")]]
 * Acknowledgments 
 I would like to thank Izumi-sensei and Naka-san for teaching me shima-uta and Mrs. Matsuda for her invaluable help in translating shimaguchi. Traditional shima-uta songs are part of the public domain, and their lyrics are not copyrightable under Japanese law. Most, but not all, shin-min’yo songs are still under copyright, and thus their recordings and lyrics belong to their respective owners. Translations posted on this site, unless otherwise cited, are my own work. Please support the artists and producers of this traditional artform by purchasing and not infringing on their copyrights.
 

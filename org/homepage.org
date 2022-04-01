@@ -38,18 +38,18 @@ Languages, like wines, grow more refined with age, and these are among the oldes
   - [[file:elevators-in-latin.org][Elevators in Latin]]
 * Music
 #+begin_center
-*Gregorian chant, [[file:shima-uta.org][/shima-uta/]] /vel sim/*.
+*Gregorian chant, [[file:shimauta.org][/shima-uta/]] /vel sim/*.
 #+end_center
 #+CAPTION: {{{ruby(朝花,Asabana)}}}{{{ruby(節,Bushi)}}}
 | {{{ruby(稀,ま)}}}れ稀れ　{{{ruby(汝,な)}}}きゃ{{{ruby(拝,うが)}}}で | I’m dying to see you again |
 | ヨイサ、ヨイヨイ                                                    | (Yoi sa, yoi yoi)          |
 | {{{ruby(今,なま)}}}{{{ruby(汝,な)}}}きゃ{{{ruby(拝,うが)}}}むば     | If we meet up again,       |
 | にゃ{{{ruby(何時,いち)}}}頃{{{ruby(拝,うが)}}}むかい                | How soon can we meet?      |
-Join me as I learn about traditional forms of music like Gregorian chant or Japanese [[file:shima-uta.org][/shima-uta/]].  Click here to see my posts related to various styles of music.
+Join me as I learn about traditional forms of music like Gregorian chant or Japanese [[file:shimauta.org][/shima-uta/]].  Click here to see my posts related to various styles of music.
 - Recent Articles
   - [[file:study-through-karaoke.org][The Karaoke Method^{TM} of Language Acquisition]]
   - [[file:music-of-radwimps.org][the Music of RADWIMPS]]
-  - [[file:shima-no-blues.org][島のブルース ("Shima no Blues")]]
+  - [[file:shima-no-burusu.org][島のブルース ("Shima no Blues")]]
   - [[file:gregorian-chant-japan.org][Gregorian Chant in Japan]]
 * Technology
 It has often been said that there is /nihil sub sole novum/ but the personal computer sure does come close. Let’s learn about it together.
