@@ -26,11 +26,6 @@ table {
     margin: auto;
 }
 
-.center {
-  margin-left: auto;
-  margin-right: auto;
-}
-
 td {
     text-align: center;
     padding-right: 5px;
@@ -85,3 +80,10 @@ iframe {
 	background-color:#009;
 	color:#fff;
 }
+
+
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
