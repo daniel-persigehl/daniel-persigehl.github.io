@@ -1,0 +1,139 @@
+#+TITLE: Transcribing Diacritics
+* Transcribing diacritics
+I’ve been transcribing several Latin documents into a plaintext format and have run into the problem of obscure letters and diacritic marks.  OCR technology (Optical Character Recognition) has been a great help, but the Latin language corpus it was trained on does not feature diacritics aside from the acute, grave, or circumflex.
+
+Of course, I could save a lot of headaches by simply transcribing them into modern orthography, but I figured I could always convert it later via macros.
+* The lazy method
+The absolute laziest method, of which I am frequently guilty, is copy+paste.  This involves doing an internet search, or otherwise visiting a webpage or document you know has the character you’re looking for.  This is absolutely foolproof.  Simply search for “a acute” and copy the first one you come across.
+
+While I was in graduate school, I stepped up my game by creating a cheatsheet .txt file and would simply copy and paste characters from it to whatever I was working on.
+* The numpad method
+Another approach is to use the actual unicode code-points.  However, it is quite a pain, especially if your keyboard lacks a numpad.  Again, during grad school, I printed out a cheat-sheet and kept it by my computer for easy reference.
+* Hotkeys / Autocorrect
+It blew my mind when I snooped on a colleague of mine while they were working and saw them type out some Latin and macrons magically appeared over the words.  They informed me that they had levied Microsoft Word’s autocorrect system to replace a certain string of characters with special characters.
+* Custom hotkeys and Macros
+
+Given that I have to do a lot of typing obscure characters and symbols, none of these options work well for me.
+* LaTeX
+Although not as popular in the Humanities, the use of LaTeX is well known in STEM fields.
+
+The core alphabet used by the Romans consists of 23 letters: ABCDEFGHIKLMNOPQRSTVXYZ
+
+| A  | B  | C  | D  | E  | F  | G  | H  | I  | K          | L    | M  |
+| a  | be | ce | de | e  | ef | ge | ha | i  | ke         | el   | em |
+| N  | O  | P  | Q  | R  | S  | T  | V  | X  | Y          | Z    |    |
+| en | o  | pe | qu | er | es | te | u  | ix | i   graeca | zeta |    |
+* Core Latin Alphabet
+grave, acute, circumflex, macron, diaeresis (umlaut)
+
+Some additional letters in Latin-derived alphabets:
+
+| J/j | /i longa/  | consonantal I, ancient, common       |
+| U/u | /u/        | vocalic V, medieval, common          |
+| W/w | /u duplex/ | double V, medieval, Germanic         |
+| Ə   | /schwa/    | modern                               |
+| Ð/ð | /eth/      | dental fricative, medieval, Germanic |
+| ß   | /Eszett/   | double S, late medieval, Germanic    |
+| ſ   | /es longa/ | cursive medial S, ancient            |
+| Æ/æ | /ash/      | ligature of A and E, medieval        |
+* Common Diacritics
+These are the most common diacritics that a Latin scholar will encounter.  Knowing how to type them is extremely useful.
+
+Accents, called diacritic marks, can be added letters to communicate additional information.  The most common are the following:
+
+| acute      |
+| grave      |
+| circumflex |
+| macron     |
+| breve      |
+| diaresis   |
+The circumflex can be represented two different ways, depending on the language: as a caret (^) or a tilde (~).
+* Sigla
+To save effort when writing or copying out manuscripts, scribes and printers would abbreviate their texts.  These usually take the form of diacritics, but special letter variants or even new symbols were developed.  Some of these are quite common.
+
+|    | acute            | elided letter (usually m, n)    |
+|    | macron           | elided letter (usually m, n)    |
+| ~  | tilde            | elided letter (usually vowel)   |
+| Ꝛꝛ | r rotunda        | variant r                       |
+| Ꝝꝝ | rum              | syllable rum                    |
+| ę  | e caudata        | variant æ                       |
+| et | Tironian note et |                                 |
+| ;  | semicolon        | elided letter (usually ue, uae) |
+* Polytonic Greek
+While modern Greek only makes use of a single accent (the acute), ancient Greek utilizes a much more complex system of acutes, graves, circumflexes, breath marks, tittles, and jots.
+
+The simplest way is to install a polytonic Greek keyboard.  This can easily be done in Windows by navigating to the Language settings menu via the Control Panel and choosing to install a language.  If Polytonic Greek is not listed as an option, install Greek.  You should then be able to install Polytonic Greek from the keyboard layouts menu.
+
+As I do most of my work in Emacs, however, there is a slightly different method.  It can be configured to use a specific input method.  I use the babel method, which was developed for use with TeX.  I have created a hotkey @@html:<kbd>CTRL-x g</kbd>@@ to quickly switch to Polytonic Greek, using the babel input method:
+
+#+begin_example
+(defun aug/set-input-method-babel-greek ()
+  (interactive)
+  (set-input-method 'greek-babel))
+(global-set-key (kbd "C-x g")
+		(lambda()(interactive)
+		  (set-input-method 'greek-babel)))
+#+end_example
+This allows me to
+
+However, in doing research, I discovered that the ibycus4 method is more in line with the how the Persius Project website parses transliterated Greek.
+
+Uncommon Diacritics: ę
+Ogonek,
+* Uncommon Punctuation
+It is not just letters and accents that come up, but punctuation as well.  Such as the interpunct (), dagger (), section mark (), or inverted exclamation mark ().  Quotation marks also differ from language to language.
+
+Complex Diacritics
+In the ages before digital computers, it was easy to combine diacritics.  It simply required hitting backspace (or a “dead key”) and you could superimpose characters on one another.
+
+Complex Letters: Ǽ
+* Unfathomable Lovecraftian Script
+For those of you pondering over a quaint and curious volume of forgotten lore, you may have encountered a script that defies all interpretation, such as your grandmother’s shorthand, stenographic transcriptions from a session of the Japanese Diet, or, more likely, Tironian notes in the margin.  There is an initiative being undertaken by several Medieval scholars to add paleographic characters to Unicode, but the project is still in its infancy.
+#+begin_center
+[[./img/tironian-notes-sample.png]]
+
+Behold! a page from a dictionary of Tironian notes.
+#+end_center
+
+As for Tironian notes, given that they are a stenographic system, symbols can be combined ad infinitum.  This results in an extremely large number of existing sigla (~13,000), it seems unlikely that they will ever be typed, especially as even Chinese only has about 4,000 symbols in use (though obscure characters bring the number to the staggering 50,000).  The only way these symbols can be rendered digitally is by embedding images in your document.
+
+#+begin_center
+[[./img/quousque-tironian-note.png]]
+
+If you start reading a sentence of Cicero at 8:51 am on New Years Eve, you'd reach the verb at exactly midnight. Start your new year right by learning Tironian notes. (tab.  39, fig.  66)
+#+end_center
+
+
+However, Z̸͖̞͍͉̹̠̻̦̞͈̹̳̱̎̿̃̚͜͝A̴̡̦̜̠̰͍͕̬̮̙͈͚̦̩͙̫̾̋͗̍͊̀̈̿̀̅͜L̷͈̍͛̿̐̀̏̓̄͛̀̽͛̕͝͠G̶̨̛̼̜̯͓̠̝̘̖͎̥̫̳̃̏͒͠Ö̶̬͎͇̪̖̫́͐̏̎̾̾̅͋̋̆̽͝
+* My own method
+I’ve created my own system of hotkeys using mnemonics that allow me to quickly input obscure characters.  I add to it as I encounter new diacritics, letters, and punctuation in my work.  For example, let’s look at this entry to the Martyrologium Romanum (2004):
+
+#+begin_center
+[[./img/tu-duc-martyrology.png]]
+#+end_center
+#+begin_quote
+“In the city Vĩnh Long in Cochinchina, St. Giuse Nguyễn Văn Lựu, martyr, who, a farmer and catechist, gave himself up voluntarily in the place of Fr. Phêrô Lựu, who was being sought by soldiers, and died in chains during the reign of Emperor Tự Đức.”
+
+/Martyrologium Romanum/. 2004. sv. “Die 2 maii.”
+#+end_quote
+
+The acute accents are used in chanting the office, so should not be omitted.  While their frequency makes them tedious, they pose no threat to us, especially as OCR software has captured most of them.  Nor does the /a/ with a breve, as we are masters of scansion.  But what’s this? An /e/ with a circumflex and a tilde? Emacs’ insert-character function (bound to @@html:<kbd>CTRL-x 8 RET</kbd>@@) allows us to search by the character’s name.  It also allows for tab-completion, allowing you to save effort.  The result ends up like this:
+
+However, that takes a lot of time to type out every time, so I’ll create a macro for it.  I use a personal mnemonic system, so I assign the prefix @@html:<kbd>CTRL-c d ^ ~ e</kbd>@@
+
+| CTRL-c | _c_ ustom _c_ ommand |
+| d      | _d_ iacritic     |
+| ^     | (symbol 1) carot |
+| ~      | (symbol 2) tilde |
+| e      | letter           |
+As you can tell, for characters with multiple diacritics, it goes from top-to-bottom, with the letter coming at the end.
+
+This is what it looks like under the hood:
+
+#+begin_center
+[[./img/emacs-diacritics-config.png]]
+
+A sample of my custom settings for Emacs.
+#+end_center
+
+A more experienced programmer would be horrified by this kludge code, but it works well enough for me.  Whatever knowledge I have of programming comes entirely from trying to make my workflow lazier.

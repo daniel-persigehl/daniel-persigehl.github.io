@@ -13,3 +13,4 @@
 - [[file:shima-no-burusu.org][島のブルース]]
 - [[file:homepage.org][ダニエル先生のブログ]]
 - [[file:musica.org][Ars Musica]]
+- [[file:transcribing-diacritics.org][Transcribing Diacritics]]

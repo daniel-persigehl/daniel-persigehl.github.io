@@ -9,30 +9,33 @@
 "Music am I, the teacher of an art greatly varied."
 #+end_quote
 #+end_center
-* One of the Quadrivium
+Music is a mystery.  It is the transcedent, the mathematical, made tangible.  It is beauty, emotion.  It triggers awe.
+
+It is a catalyst.
+
+Now, I am not by nature very emotional.  In fact, I am rather stoic: I almost never cry, and my friends point out that they have never seen me angry.
+
+The single most emotional experience I've had was wandering into a church where Gregorian chant was wafting softly through the rafters.  I wasn't even Christian, I was merely curious about the use of Latin by a real-world community,  but it touched something deep inside me and provoked me to tears.
+
+Religious music is designed to provoke these transcendent experiences.  Take, for example, [[https://www.youtube.com/watch?v=blhCxT_LcZs][Orthodox chant]].  Like other types of folk music, it is composed not for novelty but for staying power and has been refined over generations.  This is by no means limited to religious or folk music.  Take for example these two songs from Berlioz' opera /Les Troyens/: "[[https://www.youtube.com/watch?v=yCR1WCJ7o9Q][Vallon Sonore]]" and "[[https://www.youtube.com/watch?v=WPb-ZR88qG0][Gloire à Didon]]," two songs at opposite ends of the emotional spectrum.  Or where would we be without Beethoven's [[https://www.youtube.com/watch?v=rOjHhS5MtvA][/Symphony No. 9/]], which is widely held to be one of the crowning achievements of human culture?
+
+#+begin_quote
+/De gustibus non est disputandum./
+
+There's no accounting for taste.
+#+end_quote
+
+However, there are certain aspects of music that seem universal.  The progression from a dissonance to a consonance, for example, is inherently satisfying.
+
+But /why/ does music provoke these responses in us?
+* One of the /Quadrivium/, One of the /Artes Liberales/
 #+begin_center
 [[./img/artes-liberales.jpg]]
 
 Depiction of the 7 Liberal Arts from the 12th c. manuscript /Hortus deliciarum/.
 
-Clockwise from the top: /Grammar/, /Rhetoric/, /Logic/, /Music/, /Arithmetic/, /Geometry/, and /Astronomy/.  /Philosophy/ is enthroned in the center.
+Clockwise from the top: /Grammar/, /Rhetoric/, /Logic/, /Music/, /Arithmetic/, /Geometry/, and /Astronomy/ with  /Philosophy/ enthroned at their center and whose words are written down by Socrates and Plato.
 #+end_center
-
-The traditional Liberal Arts curriculum traces its origins back over 2,000 years to the /artes liberales/ or /humaniores/ of ancient Greece and Rome, the skills fitting the education of freemen.  It was codified into two sets of skills, of which the consisted of grammar, logic, and rhetoric.  These were the basic skills on which all others depend and which formed the basis of elementary or grammar school.
-
-The ancient mystic Pythagoras to whom the discovery of the mathematical rule (here given by Euclid) /ἐν τοῖς ὀρθογωνίοις τριγώνοις τὸ ἀπὸ τῆς τὴν ὀρθὴν γωνίαν ὑποτεινούσης πλευρᾶς τετράγωνον ἴσον ἐστὶ τοῖς ἀπὸ τῶν τὴν ὀρθὴν γωνίαν περιεχουσῶν πλευρῶν τετραγώνοις/ (/a^{2}+b^{2}=c^{2}/ in modern notation) is attributed,[fn:1]  favored a more advanced set of skills.  This is of course because he was no school teacher, but a philosopher and teacher of men.  He placed particular emphasis on the mathematical skills of arithmetic, geometry, music, and astronomy.
-
-Pythagoras linked astronomy with music, as astronomy relies on complex mathematical models, and music is the real-world manifestation of math.
-
-#+begin_quote
-(17) Quam cum magis intuerer: 'Quaeso,' inquit Africanus, 'quousque humi defixa tua mens erit? Nonne aspicis, quae in templa veneris? Novem tibi orbibus vel potius globis conexa sunt omnia, quorum unus est caelestis, extimus, qui reliquos omnes complectitur, summus ipse deus arcens et continens ceteros; in quo sunt infixi illi, qui volvuntur, stellarum cursus sempiterni. Cui subiecti sunt septem, qui versantur retro contrario motu atque caelum. Ex quibus summum globum possidet illa, quam in terris Saturniam nominant. Deinde est hominum generi prosperus et salutaris ille fulgor, qui dicitur Iovis; tum rutilus horribilisque terris, quem Martium dicitis; deinde subter mediam fere regionem Sol obtinet, dux et princeps et moderator luminum reliquorum, mens mundi et temperatio, tanta magnitudine, ut cuncta sua luce lustret et compleat. Hunc ut comites consequuntur Veneris alter, alter Mercurii cursus, in infimoque orbe Luna radiis solis accensa convertitur. Infra autem iam nihil est nisi mortale et caducum praeter animos munere deorum hominum generi datos; supra Lunam sunt aeterna omnia. Nam ea, quae est media et nona, Tellus, neque movetur et infima est, et in eam feruntur omnia nutu suo pondera.'
-
-(18) Quae cum intuerer stupens, ut me recepi: 'Quid hic?' inquam, 'quis est, qui complet aures, tantus et tam dulcis sonus?' 'Hic est,' inquit, 'ille, qui intervallis disiunctus imparibus, sed tamen pro rata parte distinctis, impulsu et motu ipsorum orbium efficitur et acuta cum gravibus temperans varios aequabiliter concentus efficit; nec enim silentio tanti motus incitari possunt, et natura fert, ut extrema ex altera parte graviter, ex altera autem acute sonent. Quam ob causam summus ille caeli stellifer cursus, cuius conversio est concitatior, acuto et excitato movetur sono, gravissimo autem hic lunaris atque infimus; nam terra nona immobilis manens una sede semper haeret complexa medium mundi locum. Illi autem octo cursus, in quibus eadem vis est duorum, septem efficiunt distinctos intervallis sonos, qui numerus rerum omnium fere nodus est; quod docti homines nervis imitati atque cantibus aperuerunt sibi reditum in hunc locum, sicut alii, qui praestantibus ingeniis in vita humana divina studia coluerunt. (19) Hoc sonitu oppletae aures hominum obsurduerunt; nec est ullus hebetior sensus in vobis, sicut, ubi Nilus ad illa, quae Catadupa nominantur, praecipitat ex altissimis montibus, ea gens, quae illum locum accolit, propter magnitudinem sonitus sensu audiendi caret. Hic vero tantus est totius mundi incitatissima conversione sonitus, ut eum aures hominum capere non possint, sicut intueri solem adversum nequitis, eiusque radiis acies vestra sensusque vincitur.'
-
-Haec ego admirans referebam tamen oculos ad terram identidem.
-
--- Cicero.  "Somnium Scipionis," /De Republica/.
-#+end_quote
 
 #+begin_quote
 /Arte regens dia que sunt ego Philosophia, subjectas artes in septem divido partes/.
@@ -40,11 +43,64 @@ Haec ego admirans referebam tamen oculos ad terram identidem.
 "With divine skill (/ars/), I, Philosophy, rule over all arts and divide them into seven parts."
 #+end_quote
 
+The traditional Liberal Arts curriculum traces its origins back over 2,000 years to the /artes liberales/ or /humaniores/ of ancient Greece and Rome, the skills fitting the education of freemen.  It was codified into two sets of skills, of which the consisted of grammar, logic, and rhetoric.  These were the basic skills on which all others depend and which formed the basis of elementary or grammar school.
+
+
+
+The ancient mystic Pythagoras to whom the discovery of the mathematical rule (here given by Euclid) /ἐν τοῖς ὀρθογωνίοις τριγώνοις τὸ ἀπὸ τῆς τὴν ὀρθὴν γωνίαν ὑποτεινούσης πλευρᾶς τετράγωνον ἴσον ἐστὶ τοῖς ἀπὸ τῶν τὴν ὀρθὴν γωνίαν περιεχουσῶν πλευρῶν τετραγώνοις/ (/a^{2}+b^{2}=c^{2}/ in modern notation) is attributed,[fn:1]  favored a more advanced set of skills.  This is of course because he was no school teacher, but a philosopher and teacher of men.  He placed particular emphasis on the mathematical skills of arithmetic, geometry, music, and astronomy.
+
+It seems strange to us today, but music was crucial to Pythagoras' conception of the universe.  This is because music is inherently mathematical.  Pythagoras was historically credited with the invention of music theory when one day he was walking down the street and heard the ringing of blacksmiths' hammers.  It sounded like music.
+
+The story is certainly apocryphal, however, as the tone depends not on the weight of the hammer but the size of the anvil.  The point, however, does apply to such things as the /lengths of strings/, as any musician knows.  The monochord, a musical instrument whose invention is also attributed to him, is a perfect illustration of this principal, as it consists of a single string over a soundbox.
+
+Geometry is arithmetic applied to space.  Music is arithmetic applied to time.  Astronomy is arithmetic applied to both time and space.
+
+Pythagoras linked astronomy with music, as astronomy relies on complex mathematical models, and music is the real-world manifestation of math.  The planets, visible only as stars, moved along predictable paths but at different speeds.  And, as movement produces sound, the motions planets ought also to produce sound.
+* Music of the Spheres
+#+begin_center
+[[./img/somnium-scipionis.jpg]]
+
+Illustration of Scipio's dream from Cicero's /De Republica/ lib. VI.
+#+end_center
+This principle is illustrated beautifully in Cicero's "Somnium Scipionis," the only fully extant book from his work titled /De Republica/.  In this dialogue, Scipio Africanus, the Roman general who would go on to defeat Carthage, recounts a dream he had where his grandfather gives him a tour of the heavens.
+
+#+begin_quote
+(17) Quam cum magis intuerer: 'Quaeso,' inquit Africanus, 'quousque humi defixa tua mens erit? Nonne aspicis, quae in templa veneris? Novem tibi orbibus vel potius globis conexa sunt omnia, quorum unus est caelestis, extimus, qui reliquos omnes complectitur, summus ipse deus arcens et continens ceteros; in quo sunt infixi illi, qui volvuntur, stellarum cursus sempiterni. Cui subiecti sunt septem, qui versantur retro contrario motu atque caelum. Ex quibus summum globum possidet illa, quam in terris Saturniam nominant. Deinde est hominum generi prosperus et salutaris ille fulgor, qui dicitur Iovis; tum rutilus horribilisque terris, quem Martium dicitis; deinde subter mediam fere regionem Sol obtinet, dux et princeps et moderator luminum reliquorum, mens mundi et temperatio, tanta magnitudine, ut cuncta sua luce lustret et compleat. Hunc ut comites consequuntur Veneris alter, alter Mercurii cursus, in infimoque orbe Luna radiis solis accensa convertitur. Infra autem iam nihil est nisi mortale et caducum praeter animos munere deorum hominum generi datos; supra Lunam sunt aeterna omnia. Nam ea, quae est media et nona, Tellus, neque movetur et infima est, et in eam feruntur omnia nutu suo pondera.'
+#+end_quote
+
+However, he becomes distracted by a grand and beautiful sound that fills his ear.  It is, he says, the sound of the heavenly spheres:
+
+#+begin_quote
+(18) Quae cum intuerer stupens, ut me recepi: 'Quid hic?' inquam, 'quis est, qui complet aures, tantus et tam dulcis sonus?' 'Hic est,' inquit, 'ille, qui intervallis disiunctus imparibus, sed tamen pro rata parte distinctis, impulsu et motu ipsorum orbium efficitur et acuta cum gravibus temperans varios aequabiliter concentus efficit; nec enim silentio tanti motus incitari possunt, et natura fert, ut extrema ex altera parte graviter, ex altera autem acute sonent. Quam ob causam summus ille caeli stellifer cursus, cuius conversio est concitatior, acuto et excitato movetur sono, gravissimo autem hic lunaris atque infimus; nam terra nona immobilis manens una sede semper haeret complexa medium mundi locum. Illi autem octo cursus, in quibus eadem vis est duorum, septem efficiunt distinctos intervallis sonos, qui numerus rerum omnium fere nodus est; quod docti homines nervis imitati atque cantibus aperuerunt sibi reditum in hunc locum, sicut alii, qui praestantibus ingeniis in vita humana divina studia coluerunt. (19) Hoc sonitu oppletae aures hominum obsurduerunt; nec est ullus hebetior sensus in vobis, sicut, ubi Nilus ad illa, quae Catadupa nominantur, praecipitat ex altissimis montibus, ea gens, quae illum locum accolit, propter magnitudinem sonitus sensu audiendi caret. Hic vero tantus est totius mundi incitatissima conversione sonitus, ut eum aures hominum capere non possint, sicut intueri solem adversum nequitis, eiusque radiis acies vestra sensusque vincitur.'
+
+Haec ego admirans referebam tamen oculos ad terram identidem.
+
+-- Cicero. /De Republica/ VI.17-19.
+#+end_quote
+
+It is clear from the historical record that this would have been pregnant with symbolic meaning, but unfortunately, no writings of the Pythagoreans survive, so we cannot understand /what/ it all means exactly, only that it did mean something.  Still, the knowledge of astronomy helps to center man on his position in the world.  The Earth is but a speck at the center of the Universe (from our perspective), surrounded by marvels that are beyond our comprehension.  However, as small as the Earth is, our nations are smaller still, and we are seprated by vast oceans, deserts, and mountains.
+
+#+begin_quote
+(20) Tum Africanus: 'Sentio,' inquit, 'te sedem etiam nunc hominum ac domum contemplari; quae si tibi parva, ut est, ita videtur, haec caelestia semper spectato, illa humana contemnito! Tu enim quam celebritatem sermonis hominum aut quam expetendam consequi gloriam potes? Vides habitari in terra raris et angustis in locis et in ipsis quasi maculis, ubi habitatur, vastas solitudines interiectas eosque, qui incolunt terram, non modo interruptos ita esse, ut nihil inter ipsos ab aliis ad alios manare possit, sed partim obliquos, partim transversos, partim etiam adversos stare vobis; a quibus exspectare gloriam certe nullam potestis.
+#+end_quote
+
+* Queen of the Sciences
+#+begin_center
+[[./img/philosophia.jpg]]
+
+/Philosophy/ enthroned in the center of the seven Liberal Arts.  All philosophers, even Socrates and Plato, study her wisdom.
+#+end_center
+Up through the High Medieval period, Theology and Philosophy were one and the same.  This is because in Classical Deism, "God" is not, strictly speaking, a personal being, but the underlying logic of reality.  To use other language, we might analogize it to not simply "the Laws of Physics" but "the Laws of Reality," to encompass not just physical truths but philosophical truths.  Of course, these "Laws of Reality" were interpreted in a Christian context, so the philosophers naturally used the language of Christianity, though often compartmentalized into "Natural Law" (what was able to be discovered through scientific inquiry and human reason) and "Divine Revelation" (what was only knowable through faith).
+
 #+begin_quote
 /Omnis sapientia a domino deo est.  Soli quod desiderant facere possunt sapientes/
 
-"All wisdom comes from the Lord God (/Sir/. 1:1); only wise men can do what they will (Boethius, /Consolatio/ IV, 2)."
+"All wisdom comes from the Lord God; only wise men can do what they will."[fn:2]
+
+-- The words of Philosophy, which are being recorded by Socrates and Plato
 #+end_quote
+
+In this context, Philosophy is hailed as the Queen of the Sciences, which include all fields of knowledge.  This is why most academics prsue Ph.D.'s: it is not enough to simply be able to teach a subject (Magister Artium / Scientiae), but one must also understand the /philosophy/ of that subject.  One must possess not only technical skills to participate in field, but wisdom.  One must know their subject, but also how their subject fits in with the world.
 * [[file:./shimauta.org][Shima Uta]]
 For several years now, I have lived on one of the Amami islands which lie between Okinawa and the Japanese mainland.  These southern islands possess a unique culture and their own family of languages (not merely dialects).  I have been taking music lessons in playing the shamisen and singing these beautiful folk songs.  Click [[file:./shimauta.org][here]] to learn more about them.
 * Japanese Music
@@ -57,5 +113,5 @@ In addition to Shima-uta, I also enjoy contemporary music.  From time to time, I
   - [[file:./shimanoburusu.org][Shima no Blues]]
 
 * Footnotes
-
 [fn:1] It is not known whether Pythagoras actually discovered the theorem, nor do his writings survive.  The above formulation is taken from Euclid's /Elementa/ 1.47.
+[fn:2]/Sir/. 1:1; Boethius, /Consolatio/ IV, 2.
