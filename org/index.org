@@ -1,22 +1,16 @@
 #+TITLE: Daniel先生のブログ
 
-- [[file:studiaclassica.org][STVDIA·CLASSICA]]
 - [[file:about-site.org][About This Site]]
+- [[file:studiaclassica.org][STVDIA·CLASSICA]]
 - [[file:about-me.org][About Daniel]]
-- [[file:blog.org][Blog Posts]]
-- [[file:typing-japanese.org][Typing Japanese]]
-- [[file:technology.org][Technology]]
 - [[file:gregorian-chant-japan.org][gregorian-chant-japan]]
+- [[file:typing-japanese.org][Typing Japanese]]
 - [[file:elevators-in-latin.org][How to Say "Elevator" in Latin]]
-- [[file:study-through-karaoke.org][The Karaoke Method^{TM} of Language Acquisition]]
 - [[file:music-of-radwimps.org][The Music of RADWIMPS]]
+- [[file:study-through-karaoke.org][The Karaoke Method^{TM} of Language Acquisition]]
+- [[file:technology.org][Technology]]
 - [[file:shimauta.org][奄美の島唄]]
 - [[file:shima-no-burusu.org][島のブルース]]
-<<<<<<< HEAD
 - [[file:homepage.org][ダニエル先生のブログ]]
 - [[file:musica.org][Ars Musica]]
 - [[file:transcribing-diacritics.org][Transcribing Diacritics]]
-=======
-- [[file:musica.org][Ars Musica]]
-- [[file:homepage.org][ダニエル先生のブログ]]
->>>>>>> cdd13c2e05b7db87f8452204f4742fc7fcbacfe2
