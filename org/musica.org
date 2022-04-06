@@ -90,8 +90,9 @@ It is clear from the historical record that this would have been pregnant with s
 
 /Philosophy/ enthroned in the center of the seven Liberal Arts.  All philosophers, even Socrates and Plato, study her wisdom.
 #+end_center
-Up through the High Medieval period, Theology and Philosophy were one and the same.  This is because in Classical Deism, "God" is not, strictly speaking, a personal being, but the underlying logic of reality.  To use other language, we might analogize it to not simply "the Laws of Physics" but "the Laws of Reality," to encompass not just physical truths but philosophical truths.  Of course, these "Laws of Reality" were interpreted in a Christian context, so the philosophers naturally used the language of Christianity, though often compartmentalized into "Natural Law" (what was able to be discovered through scientific inquiry and human reason) and "Divine Revelation" (what was only knowable through faith).
+Up through the High Medieval period, Theology and Philosophy were intertwined, as the Classical Theist idea of "God" is not, strictly speaking, a personal being, but ὁ λόγος or the underlying logic of the universe.  To use other language, we might analogize it to not simply "the Laws of Physics" but "the Laws of Reality," to encompass not just physical truths but philosophical truths.  Of course, these "Laws of Reality" were interpreted in a Christian context, so the philosophers naturally used the language of Christianity, though often compartmentalized into "Natural Law" (what was able to be discovered through scientific inquiry and human reason) and "Divine Revelation" (what was only knowable through faith).
 
+But where does music fit in with this schema?  Music is the transcendent made manifest.  It is also the sense over which we have the least control.  You can direct your sight, recoil from touch, pinch your nose, and seal your lips, but you cannot block your ears.
 #+begin_quote
 /Omnis sapientia a domino deo est.  Soli quod desiderant facere possunt sapientes/
 
@@ -100,7 +101,11 @@ Up through the High Medieval period, Theology and Philosophy were one and the sa
 -- The words of Philosophy, which are being recorded by Socrates and Plato
 #+end_quote
 
-In this context, Philosophy is hailed as the Queen of the Sciences, which include all fields of knowledge.  This is why most academics prsue Ph.D.'s: it is not enough to simply be able to teach a subject (Magister Artium / Scientiae), but one must also understand the /philosophy/ of that subject.  One must possess not only technical skills to participate in field, but wisdom.  One must know their subject, but also how their subject fits in with the world.
+In this context, Philosophy is hailed as the Queen of the Sciences, which include all fields of knowledge.  This is why most academics prsue Ph.D.'s: it is not enough to simply be able to teach a subject (Magister Artium / Scientiae), but one must also understand the /philosophy/ of that subject.  One must possess not only technical skills to participate in a field, but wisdom.  One must know their subject, but also how their subject fits in with the world.  /Philosophia/ (/love of wisdom/) can not be taught, but must be cultivated by pursuing knowledge in a variety of subjects.  As in the parable of the Blind Men and the Elephant, one must consider a variety of perspectives to come to true understanding.
+
+But why music?  Arithmetic gives us certainty and universality.  Geometry gives us practical skills.  Astronomy gives us perspective and keeps us grounded, yet at the same time makes us dreamers.  Music?  Music teaches us to appreciate beauty, but that a whole is more than the sum of its parts.  An octave consists of 7 notes, 
+
+Jane Goodall is an example of this quality, that a wide perspective beyond blind physicalism can enhance not only science but the world.
 * [[file:./shimauta.org][Shima Uta]]
 For several years now, I have lived on one of the Amami islands which lie between Okinawa and the Japanese mainland.  These southern islands possess a unique culture and their own family of languages (not merely dialects).  I have been taking music lessons in playing the shamisen and singing these beautiful folk songs.  Click [[file:./shimauta.org][here]] to learn more about them.
 * Japanese Music
@@ -110,7 +115,7 @@ In addition to Shima-uta, I also enjoy contemporary music.  From time to time, I
 - [[file:./music-of-radwimps.org][The Music of RADWIMPS]]
 - [[file:./gregorian-chant-japan.org][Gregorian Chant in Japan]]
 - [[file:./shimauta.org][Shima-uta]]
-  - [[file:./shimanoburusu.org][Shima no Blues]]
+  - [[file:./shima-no-burusu.org][Shima no Blues]]
 
 * Footnotes
 [fn:1] It is not known whether Pythagoras actually discovered the theorem, nor do his writings survive.  The above formulation is taken from Euclid's /Elementa/ 1.47.
