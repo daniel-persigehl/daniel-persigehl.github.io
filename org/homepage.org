@@ -21,6 +21,7 @@ Fear of embarrassment has never stopped me from learning a new language. Maybe r
   - [[./elevators-in-latin.org][Elevators in Latin]]
 * [[./studiaclassica.org][STVDIA·CLASSICA]]
 #+begin_center
+[[./img/Maccari-Cicero.jpg]]
 *Latin and Greek*
 #+end_center
 
@@ -36,8 +37,9 @@ Languages, like wines, grow more refined with age, and these are among the oldes
 - Recent Articles
   - [[file:gregorian-chant-japan.org][Gregorian Chant in Japan]]
   - [[file:elevators-in-latin.org][Elevators in Latin]]
-* Music
+* [[file:musica.org][Music]]
 #+begin_center
+[[./img/chant-asperges.jpg]]
 *Gregorian chant, [[file:shimauta.org][/shima-uta/]] /vel sim/*.
 #+end_center
 #+CAPTION: {{{ruby(朝花,Asabana)}}}{{{ruby(節,Bushi)}}}
@@ -51,11 +53,11 @@ Join me as I learn about traditional forms of music like Gregorian chant or Japa
   - [[file:music-of-radwimps.org][the Music of RADWIMPS]]
   - [[file:shima-no-burusu.org][島のブルース ("Shima no Blues")]]
   - [[file:gregorian-chant-japan.org][Gregorian Chant in Japan]]
-* Technology
+* [[file:technology.org][Technology]]
 It has often been said that there is /nihil sub sole novum/ but the personal computer sure does come close. Let’s learn about it together.
 - Recent Articles
   - [[file:typing-japanese.org][Typing Japanese]]
-* About This Site
+* [[file:about-site.org][About This Site]]
 This site was built by [[./about-me.org][Daniel先生]] using [[https://www.gnu.org/software/emacs/][Emacs]]' [[https://orgmode.org/][org-mode]] suite and is hosted by [[https://github.com/][Github]].
 Thank you for all your support.
 

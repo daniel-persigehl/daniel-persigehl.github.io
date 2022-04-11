@@ -1,4 +1,7 @@
 #+TITLE: STVDIA·CLASSICA
+#+begin_center
+[[./img/Maccari-Cicero.jpg]]
+#+end_center
 * Studia Classica
 Classical Studies are the heart of a humanistic education. There are may different types of curricula worthy of following, and they each have their own value.
 * What is the West?

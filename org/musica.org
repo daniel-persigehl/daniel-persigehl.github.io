@@ -17,7 +17,13 @@ Now, I am not by nature very emotional.  In fact, I am rather stoic: I almost ne
 
 The single most emotional experience I've had was wandering into a church where Gregorian chant was wafting softly through the rafters.  I wasn't even Christian, I was merely curious about the use of Latin by a real-world community,  but it touched something deep inside me and provoked me to tears.
 
-Religious music is designed to provoke these transcendent experiences.  Take, for example, [[https://www.youtube.com/watch?v=blhCxT_LcZs][Orthodox chant]].  Like other types of folk music, it is composed not for novelty but for staying power and has been refined over generations.  This is by no means limited to religious or folk music.  Take for example these two songs from Berlioz' opera /Les Troyens/: "[[https://www.youtube.com/watch?v=yCR1WCJ7o9Q][Vallon Sonore]]" and "[[https://www.youtube.com/watch?v=WPb-ZR88qG0][Gloire à Didon]]," two songs at opposite ends of the emotional spectrum.  Or where would we be without Beethoven's [[https://www.youtube.com/watch?v=rOjHhS5MtvA][/Symphony No. 9/]], which is widely held to be one of the crowning achievements of human culture?
+Religious music is designed to provoke these transcendent experiences.  Take, for example, this Polish [[https://www.youtube.com/watch?v=blhCxT_LcZs][Orthodox chant]].  Like other types of folk music, it is composed not for novelty but for staying power and has been refined over generations.  This is by no means limited to religious or folk music.  Take for example these two songs from Berlioz' opera /Les Troyens/: "[[https://www.youtube.com/watch?v=yCR1WCJ7o9Q][Vallon Sonore]]" and "[[https://www.youtube.com/watch?v=WPb-ZR88qG0][Gloire à Didon]]," two songs at opposite ends of the emotional spectrum.  Or where would we be without Beethoven's [[https://www.youtube.com/watch?v=rOjHhS5MtvA][/Symphony No. 9/]], which is widely held to be one of the crowning achievements of human culture?
+
+#+begin_center
+yt:aELeEpgiQos
+
+/The Lost Voices of the Hagia Sophia/: An album of Greek chant recorded by Capella Romana using the sound profile of the Hagia Sophia, which was the world's largest church from AD 537-1520 and whose unique acoustics inspired a /millennium/ of choral music.  Listen to their interview with NPR where they discuss how they digitally reconstructed it.
+#+end_center
 
 #+begin_quote
 /De gustibus non est disputandum./
@@ -28,6 +34,36 @@ There's no accounting for taste.
 However, there are certain aspects of music that seem universal.  The progression from a dissonance to a consonance, for example, is inherently satisfying.
 
 But /why/ does music provoke these responses in us?
+* Applied Mathematics
+Music is one of the ways mathematics, arguably the purest and most abstract science, can be made tangible.
+
+Music teaches us to appreciate beauty, but that a whole is more than the sum of its parts.  At its most basic, rhythm takes an arbitrary length of time (a "measure") and divides it into smaller units, such as half notes.  These half notes can be halved in turn, becoming quarter notes, then eighth, sixteenth, thirty-second notes and so on.
+
+#+begin_center
+yt:8LvN4WV3RtM
+
+"12 Variations on 'Ah, vous dirai-je Maman' K.265" - Wolfgang Amadeus Mozart, Piano
+#+end_center
+
+The ancient mystic Pythagoras to whom the discovery of the mathematical rule (here given by Euclid):
+
+#+begin_quote
+ἐν τοῖς ὀρθογωνίοις τριγώνοις τὸ ἀπὸ τῆς τὴν ὀρθὴν γωνίαν ὑποτεινούσης πλευρᾶς τετράγωνον ἴσον ἐστὶ τοῖς ἀπὸ τῶν τὴν ὀρθὴν γωνίαν περιεχουσῶν πλευρῶν τετραγώνοις
+
+(/a^{2}+b^{2}=c^{2}/ in modern notation)
+#+end_quote
+
+is attributed,[fn:1]  favored a more advanced set of skills.  This is of course because he was no school teacher, but a philosopher and teacher of men.  He placed particular emphasis on the mathematical skills of arithmetic, geometry, music, and astronomy.
+
+It seems strange to us today, but music was crucial to Pythagoras' conception of the universe.  This is because music is inherently mathematical.  Pythagoras was historically credited with the invention of music theory when one day he was walking down the street and heard the ringing of blacksmiths' hammers.  It sounded like music.  He investigated how the different hammers used by the blacksmiths produced different tones in direct proportion to the hammers' weight.  Thus, Pythagoras was the first to discover the relation between music and mathematics.[fn:3]
+
+In Western music theory there exist only 12 distinct (semi)tones, and yet they produce all music from the simple to the sublime.
+
+#+begin_center
+yt:7OYkWSW7u4k
+
+"Classical Music Mashup" illustrates how the limited range of notes produces a limitless variety of music.
+#+end_center
 * One of the /Quadrivium/, One of the /Artes Liberales/
 #+begin_center
 [[./img/artes-liberales.jpg]]
@@ -46,16 +82,24 @@ Clockwise from the top: /Grammar/, /Rhetoric/, /Logic/, /Music/, /Arithmetic/, /
 The traditional Liberal Arts curriculum traces its origins back over 2,000 years to the /artes liberales/ or /humaniores/ of ancient Greece and Rome, the skills fitting the education of freemen.  It was codified into two sets of skills, of which the consisted of grammar, logic, and rhetoric.  These were the basic skills on which all others depend and which formed the basis of elementary or grammar school.
 
 
-
-The ancient mystic Pythagoras to whom the discovery of the mathematical rule (here given by Euclid) /ἐν τοῖς ὀρθογωνίοις τριγώνοις τὸ ἀπὸ τῆς τὴν ὀρθὴν γωνίαν ὑποτεινούσης πλευρᾶς τετράγωνον ἴσον ἐστὶ τοῖς ἀπὸ τῶν τὴν ὀρθὴν γωνίαν περιεχουσῶν πλευρῶν τετραγώνοις/ (/a^{2}+b^{2}=c^{2}/ in modern notation) is attributed,[fn:1]  favored a more advanced set of skills.  This is of course because he was no school teacher, but a philosopher and teacher of men.  He placed particular emphasis on the mathematical skills of arithmetic, geometry, music, and astronomy.
-
-It seems strange to us today, but music was crucial to Pythagoras' conception of the universe.  This is because music is inherently mathematical.  Pythagoras was historically credited with the invention of music theory when one day he was walking down the street and heard the ringing of blacksmiths' hammers.  It sounded like music.
-
-The story is certainly apocryphal, however, as the tone depends not on the weight of the hammer but the size of the anvil.  The point, however, does apply to such things as the /lengths of strings/, as any musician knows.  The monochord, a musical instrument whose invention is also attributed to him, is a perfect illustration of this principal, as it consists of a single string over a soundbox.
-
-Geometry is arithmetic applied to space.  Music is arithmetic applied to time.  Astronomy is arithmetic applied to both time and space.
+Arithmetic is simple mathematics.  If you apply arithmetic to /space/, you get /geometry/.  If you apply arithmetic to time, you get music.  But what if you apply arithmetic to both space /and/ time?  You get /astronomy/.
 
 Pythagoras linked astronomy with music, as astronomy relies on complex mathematical models, and music is the real-world manifestation of math.  The planets, visible only as stars, moved along predictable paths but at different speeds.  And, as movement produces sound, the motions planets ought also to produce sound.
+
+#+begin_quote
+ἆρ᾽ οὖν, ἦν δ᾽ ἐγώ, ὦ Γλαύκων, τούτων ἕνεκα κυριωτάτη ἐν μουσικῇ τροφή, ὅτι μάλιστα καταδύεται εἰς τὸ ἐντὸς τῆς ψυχῆς ὅ τε ῥυθμὸς καὶ ἁρμονία, καὶ ἐρρωμενέστατα ἅπτεται αὐτῆς φέροντα τὴν εὐσχημοσύνην, καὶ ποιεῖ εὐσχήμονα
+
+"And is it not for this reason, Glaucon," said I, "that education in music is most sovereign, because more than anything else rhythm and harmony find their way to the inmost soul and take strongest hold upon it, bringing with them and imparting grace, if one is rightly trained...?"
+
+---Plato, Republic, 3.401d trans. Paul Shorey.
+#+end_quote
+#+begin_example
+Arithmetic(Space) = Geometry
+Arithmetic(Time) = Music
+Arithmetic(Space + Time) = Astronomy
+∴ Astronomy = Geometry + Music
+#+end_example
+
 * Music of the Spheres
 #+begin_center
 [[./img/somnium-scipionis.jpg]]
@@ -84,6 +128,14 @@ It is clear from the historical record that this would have been pregnant with s
 (20) Tum Africanus: 'Sentio,' inquit, 'te sedem etiam nunc hominum ac domum contemplari; quae si tibi parva, ut est, ita videtur, haec caelestia semper spectato, illa humana contemnito! Tu enim quam celebritatem sermonis hominum aut quam expetendam consequi gloriam potes? Vides habitari in terra raris et angustis in locis et in ipsis quasi maculis, ubi habitatur, vastas solitudines interiectas eosque, qui incolunt terram, non modo interruptos ita esse, ut nihil inter ipsos ab aliis ad alios manare possit, sed partim obliquos, partim transversos, partim etiam adversos stare vobis; a quibus exspectare gloriam certe nullam potestis.
 #+end_quote
 
+Johannes Kepler is famous for his work, his /Harmonices Mundi/ ("Harmonics of the Universe"), though he writes of mathematical harmonies, not literal sounds.
+
+#+begin_center
+yt:K0YwUd870-4
+
+An interpretation of /Harmonices Mundi/: "The Planets op.32," Gustav Holst.
+#+end_center
+
 * Queen of the Sciences
 #+begin_center
 [[./img/philosophia.jpg]]
@@ -101,9 +153,9 @@ But where does music fit in with this schema?  Music is the transcendent made ma
 -- The words of Philosophy, which are being recorded by Socrates and Plato
 #+end_quote
 
-In this context, Philosophy is hailed as the Queen of the Sciences, which include all fields of knowledge.  This is why most academics prsue Ph.D.'s: it is not enough to simply be able to teach a subject (Magister Artium / Scientiae), but one must also understand the /philosophy/ of that subject.  One must possess not only technical skills to participate in a field, but wisdom.  One must know their subject, but also how their subject fits in with the world.  /Philosophia/ (/love of wisdom/) can not be taught, but must be cultivated by pursuing knowledge in a variety of subjects.  As in the parable of the Blind Men and the Elephant, one must consider a variety of perspectives to come to true understanding.
+In this context, Philosophy is hailed as the Queen of the Sciences, which include all fields of knowledge.  This is why most academics pursue Ph.D.'s: it is not enough to simply be able to teach a subject (Magister Artium / Scientiae), but one must also understand the /philosophy/ of that subject.  One must possess not only technical skills to participate in a field, but wisdom.  One must know their subject, but also how their subject fits in with the world.  /Philosophia/ (/love of wisdom/) can not be taught, but must be cultivated by pursuing knowledge in a variety of subjects.  As in the parable of the Blind Men and the Elephant, one must consider a variety of perspectives to come to true understanding.
 
-But why music?  Arithmetic gives us certainty and universality.  Geometry gives us practical skills.  Astronomy gives us perspective and keeps us grounded, yet at the same time makes us dreamers.  Music?  Music teaches us to appreciate beauty, but that a whole is more than the sum of its parts.  An octave consists of 7 notes, 
+But why music?  Arithmetic gives us certainty and universality.  Geometry gives us practical skills.  Astronomy gives us perspective and keeps us grounded, yet at the same time makes us dreamers.  Music?  
 
 Jane Goodall is an example of this quality, that a wide perspective beyond blind physicalism can enhance not only science but the world.
 * [[file:./shimauta.org][Shima Uta]]
@@ -118,5 +170,7 @@ In addition to Shima-uta, I also enjoy contemporary music.  From time to time, I
   - [[file:./shima-no-burusu.org][Shima no Blues]]
 
 * Footnotes
+
+[fn:3] The story is certainly apocryphal, however, as the tone depends not on the weight of the hammer but the size of the anvil.  The point, however, does apply to such things as the /lengths of strings/, as any musician knows.  The monochord, a musical instrument whose invention is also attributed to him, is a perfect illustration of this principal, as it consists of a single string over a soundbox. 
 [fn:1] It is not known whether Pythagoras actually discovered the theorem, nor do his writings survive.  The above formulation is taken from Euclid's /Elementa/ 1.47.
 [fn:2]/Sir/. 1:1; Boethius, /Consolatio/ IV, 2.
