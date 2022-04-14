@@ -13,9 +13,7 @@ Music is a mystery.  It is the transcedent, the mathematical, made tangible.  It
 
 It is a catalyst.
 
-Now, I am not by nature very emotional.  In fact, I am rather stoic: I almost never cry, and my friends point out that they have never seen me angry.
-
-The single most emotional experience I've had was wandering into a church where Gregorian chant was wafting softly through the rafters.  I wasn't even Christian, I was merely curious about the use of Latin by a real-world community,  but it touched something deep inside me and provoked me to tears.
+Now, I am not by nature very emotional.  In fact, I am rather stoic: I almost never cry, and my friends point out that they have never seen me angry, and yet the single most emotional experience I've had was wandering into a church where Gregorian chant was wafting softly through the rafters.  I wasn't even Christian, I was merely curious about the use of Latin by a real-world community,  but it touched something deep inside me and provoked me to tears.
 
 Religious music is designed to provoke these transcendent experiences.  Take, for example, this Polish [[https://www.youtube.com/watch?v=blhCxT_LcZs][Orthodox chant]].  Like other types of folk music, it is composed not for novelty but for staying power and has been refined over generations.  This is by no means limited to religious or folk music.  Take for example these two songs from Berlioz' opera /Les Troyens/: "[[https://www.youtube.com/watch?v=yCR1WCJ7o9Q][Vallon Sonore]]" and "[[https://www.youtube.com/watch?v=WPb-ZR88qG0][Gloire à Didon]]," two songs at opposite ends of the emotional spectrum.  Or where would we be without Beethoven's [[https://www.youtube.com/watch?v=rOjHhS5MtvA][/Symphony No. 9/]], which is widely held to be one of the crowning achievements of human culture?
 
@@ -25,45 +23,49 @@ yt:aELeEpgiQos
 /The Lost Voices of the Hagia Sophia/: An album of Greek chant recorded by Capella Romana using the sound profile of the Hagia Sophia, which was the world's largest church from AD 537-1520 and whose unique acoustics inspired a /millennium/ of choral music.  Listen to their interview with NPR where they discuss how they digitally reconstructed it.
 #+end_center
 
+However, there are as many styles of music as there are cultures around the world.  So music is only subjective, right?
+
 #+begin_quote
 /De gustibus non est disputandum./
 
 There's no accounting for taste.
+---Roman maxim
 #+end_quote
 
-However, there are certain aspects of music that seem universal.  The progression from a dissonance to a consonance, for example, is inherently satisfying.
+However, there are certain aspects of music that seem universal.  The particulars of music of course change from culture to culture, but certain things seem universal.  The progression [[https://www.youtube.com/watch?v=JJIO-Jr0E8o][from a dissonance to a consonance]], for example, is inherently satisfying.  A sense of rhythm is also a necessity, though the standards of what constitutes that varies.  Fixed musical scales, as in certain ratios between tones, though they need not be tied to specific sound frequencies, are a must.  [[https://www.youtube.com/watch?v=TjrsqJaLDOg][Gregorian chant]] has neither an absolute scale (it changes to fit a choir's vocal range) nor fixed rhythm (it is modeled after the flow of speech), yet is the origin of the Western musical tradition.  Similarly, the intervals between notes in Byzantine chant do not align with those in solfege.  Traditional Japanese music is based off a pentatonic scale.
 
 But /why/ does music provoke these responses in us?
 * Applied Mathematics
-Music is one of the ways mathematics, arguably the purest and most abstract science, can be made tangible.
+To the casual listener, music is an artform and is a good song is simply whatever "sounds good."  To the learned musician, however, it is a science as well.  Music is one of the ways mathematics, arguably the purest and most abstract science, can be made tangible.
 
-Music teaches us to appreciate beauty, but that a whole is more than the sum of its parts.  At its most basic, rhythm takes an arbitrary length of time (a "measure") and divides it into smaller units, such as half notes.  These half notes can be halved in turn, becoming quarter notes, then eighth, sixteenth, thirty-second notes and so on.
+At its most basic, rhythm takes an arbitrary length of time (a "measure") and divides it into smaller units, such as half notes.  These half notes can be halved in turn, becoming quarter notes, then eighth, sixteenth, thirty-second notes and so on.
 
+One of the basic skills in music is rhythmic variation.  A well known example is Mozart's twelve variations on the French folk tune "Ah, vous dirai-je Maman," which is better known by its English title "Twinkle, Twinkle, Little Star."  The core melody is the same throughout the piece, but the composer has added ornamentation to alter its sound.
 #+begin_center
 yt:8LvN4WV3RtM
 
 "12 Variations on 'Ah, vous dirai-je Maman' K.265" - Wolfgang Amadeus Mozart, Piano
 #+end_center
 
-The ancient mystic Pythagoras to whom the discovery of the mathematical rule (here given by Euclid):
+However, it is not just rhythm, but sound is itself mathematical.  The ancient mystic Pythagoras, though remembered today as a mathematician, was well known in antiquity for his theories of music.
 
 #+begin_quote
 ἐν τοῖς ὀρθογωνίοις τριγώνοις τὸ ἀπὸ τῆς τὴν ὀρθὴν γωνίαν ὑποτεινούσης πλευρᾶς τετράγωνον ἴσον ἐστὶ τοῖς ἀπὸ τῶν τὴν ὀρθὴν γωνίαν περιεχουσῶν πλευρῶν τετραγώνοις
 
-(/a^{2}+b^{2}=c^{2}/ in modern notation)
+The above principle, rendedered /a^{2}+b^{2}=c^{2}/ in modern notation, is famously attributed to Pythagoras, though none of his writings survive.[fn:1]
 #+end_quote
 
-is attributed,[fn:1]  favored a more advanced set of skills.  This is of course because he was no school teacher, but a philosopher and teacher of men.  He placed particular emphasis on the mathematical skills of arithmetic, geometry, music, and astronomy.
+It seems strange to us today, but music was crucial to Pythagoras' conception of the universe.  In fact, Pythagoras was historically credited with the invention of music theory when one day he was walking down the street and was struck by the ringing of blacksmiths' hammers.  It sounded like music.  Upon approaching the smithies, he saw that the hammers were of different sizes.  He investigated how the different hammers used by the blacksmiths produced different tones in direct proportion to the hammers' weight.  Thus, Pythagoras was the first to discover the relation between music and mathematics.[fn:3]
 
-It seems strange to us today, but music was crucial to Pythagoras' conception of the universe.  This is because music is inherently mathematical.  Pythagoras was historically credited with the invention of music theory when one day he was walking down the street and heard the ringing of blacksmiths' hammers.  It sounded like music.  He investigated how the different hammers used by the blacksmiths produced different tones in direct proportion to the hammers' weight.  Thus, Pythagoras was the first to discover the relation between music and mathematics.[fn:3]
-
-In Western music theory there exist only 12 distinct (semi)tones, and yet they produce all music from the simple to the sublime.
+In Western music theory there exist only 12 distinct (semi)tones, and yet they are combined to produce all music from the simple to the sublime.  It is for this very reason that pianos are the core of music of music education, as its ability to play several notes at the same time allows virtually any song to be reproduced and performed by a single musician.  See how the most famous works in the Classical repertoire can be combined together into a single work:
 
 #+begin_center
 yt:7OYkWSW7u4k
 
 "Classical Music Mashup" illustrates how the limited range of notes produces a limitless variety of music.
 #+end_center
+
+Thus, music teaches us not only to appreciate beauty, but that a whole is more than the sum of its parts.  
 * One of the /Quadrivium/, One of the /Artes Liberales/
 #+begin_center
 [[./img/artes-liberales.jpg]]
@@ -73,16 +75,19 @@ Depiction of the 7 Liberal Arts from the 12th c. manuscript /Hortus deliciarum/.
 Clockwise from the top: /Grammar/, /Rhetoric/, /Logic/, /Music/, /Arithmetic/, /Geometry/, and /Astronomy/ with  /Philosophy/ enthroned at their center and whose words are written down by Socrates and Plato.
 #+end_center
 
+Although it is a minor part of most curricula and is only taught in-depth to those going on to become musicians, an education is not truly complete without a basic knowledge of music.
+
+The traditional Liberal Arts curriculum traces its origins back over 2,000 years to the /artes liberales/ or /humaniores/ of ancient Greece and Rome, the skills fitting the education of freemen.  It was codified into two sets of skills, of which the consisted of grammar, logic, and rhetoric.  These were the basic skills on which all others depend and which formed the basis of elementary or grammar school.
+
 #+begin_quote
 /Arte regens dia que sunt ego Philosophia, subjectas artes in septem divido partes/.
 
 "With divine skill (/ars/), I, Philosophy, rule over all arts and divide them into seven parts."
 #+end_quote
 
-The traditional Liberal Arts curriculum traces its origins back over 2,000 years to the /artes liberales/ or /humaniores/ of ancient Greece and Rome, the skills fitting the education of freemen.  It was codified into two sets of skills, of which the consisted of grammar, logic, and rhetoric.  These were the basic skills on which all others depend and which formed the basis of elementary or grammar school.
-
-
 Arithmetic is simple mathematics.  If you apply arithmetic to /space/, you get /geometry/.  If you apply arithmetic to time, you get music.  But what if you apply arithmetic to both space /and/ time?  You get /astronomy/.
+
+This is of course because he was no school teacher, but a philosopher and teacher of men.  He placed particular emphasis on the mathematical skills of arithmetic, geometry, music, and astronomy.
 
 Pythagoras linked astronomy with music, as astronomy relies on complex mathematical models, and music is the real-world manifestation of math.  The planets, visible only as stars, moved along predictable paths but at different speeds.  And, as movement produces sound, the motions planets ought also to produce sound.
 
@@ -99,6 +104,8 @@ Arithmetic(Time) = Music
 Arithmetic(Space + Time) = Astronomy
 ∴ Astronomy = Geometry + Music
 #+end_example
+
+Although it is not used in many professions, music is also a practical life skill.  At the very least, the ability to sing, read music notation, and know how to play a basic melody on a piano keyboard are of immense value.
 
 * Music of the Spheres
 #+begin_center
@@ -155,9 +162,7 @@ But where does music fit in with this schema?  Music is the transcendent made ma
 
 In this context, Philosophy is hailed as the Queen of the Sciences, which include all fields of knowledge.  This is why most academics pursue Ph.D.'s: it is not enough to simply be able to teach a subject (Magister Artium / Scientiae), but one must also understand the /philosophy/ of that subject.  One must possess not only technical skills to participate in a field, but wisdom.  One must know their subject, but also how their subject fits in with the world.  /Philosophia/ (/love of wisdom/) can not be taught, but must be cultivated by pursuing knowledge in a variety of subjects.  As in the parable of the Blind Men and the Elephant, one must consider a variety of perspectives to come to true understanding.
 
-But why music?  Arithmetic gives us certainty and universality.  Geometry gives us practical skills.  Astronomy gives us perspective and keeps us grounded, yet at the same time makes us dreamers.  Music?  
-
-Jane Goodall is an example of this quality, that a wide perspective beyond blind physicalism can enhance not only science but the world.
+But why music?  Arithmetic gives us certainty and universality.  Geometry gives us practical skills.  Astronomy gives us perspective and keeps us grounded, yet at the same time makes us dreamers.  Music?  Music reminds us that there is more to the world than what can be described or proved scientifically.  It reminds us that goodness and beauty are real and that even subjective things can be studied through the light of human reason.
 * [[file:./shimauta.org][Shima Uta]]
 For several years now, I have lived on one of the Amami islands which lie between Okinawa and the Japanese mainland.  These southern islands possess a unique culture and their own family of languages (not merely dialects).  I have been taking music lessons in playing the shamisen and singing these beautiful folk songs.  Click [[file:./shimauta.org][here]] to learn more about them.
 * Japanese Music
