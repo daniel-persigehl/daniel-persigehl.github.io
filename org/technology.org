@@ -26,4 +26,5 @@ I’m a big fan of the free software movement.  Over the past decade or so, I ha
 
 I’m a big fan of plain text.  It is the most basic form of encoding and the least likely to become obsolete even in the distant future.  Even should it become obsolete, the plain text is trivially easy to convert to other formats.  This is why I have largely migrated away from proprietary software like Microsoft Office or WordPerfect in favor of free software like GNU Emacs.
 * Recent Articles in this Category
+- [[file:./transcribing-diacritics.org][Transcribing Diacritics]]
 - [[file:typing-japanese.org][Typing Japanese]]

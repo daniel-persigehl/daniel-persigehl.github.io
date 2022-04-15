@@ -1,3 +1,8 @@
 #+TITLE: About This Site
 * About This Site
-This site was entirely written within and built using Emacs' org-mode suite and is hosted by Github.
+This is my personal blog, though I limit the subject matter to just a few topics, namely language, music, and technology that relates to such things.
+
+This site was entirely written within and built using [[https://www.gnu.org/software/emacs/][GNU Emacs]]' [[https://orgmode.org/][org-mode suite]] and is hosted by [[https://github.com/][Github]].
+
+I know very little about programming or coding, so I compose each page as an plaintext outline in org-mode's markdown-like notation, which Emacs then exports to HTML via pandoc.  I then sync the site directory with a Github repository, which allows me to edit the site from my various computers.
+

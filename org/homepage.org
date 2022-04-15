@@ -56,6 +56,7 @@ Join me as I learn about traditional forms of music like Gregorian chant or Japa
 * [[file:technology.org][Technology]]
 It has often been said that there is /nihil sub sole novum/ but the personal computer sure does come close. Let’s learn about it together.
 - Recent Articles
+  - [[file:./transcribing-diacritics.org][Transcribing Diacritics]]
   - [[file:typing-japanese.org][Typing Japanese]]
 * [[file:about-site.org][About This Site]]
 This site was built by [[./about-me.org][Daniel先生]] using [[https://www.gnu.org/software/emacs/][Emacs]]' [[https://orgmode.org/][org-mode]] suite and is hosted by [[https://github.com/][Github]].
