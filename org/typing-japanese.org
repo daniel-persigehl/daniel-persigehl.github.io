@@ -1,4 +1,5 @@
 #+TITLE: Typing Japanese
+#+macro: ruby @@html:<ruby> $1<rp>(</rp><rt>$2</rt><rp>)</rp></ruby>@@@@latex:\ruby{$1}{$2}@@
 Being a language teacher, I have to teach my students a variety of skills. Usually, this includes pronunciation, penmanship, and how to use various localization tools on a computer. When our students were recently supplied with 2-in-1 tablet PCs to use in class, however, I was surprised at another skill I needed to teach: I needed to teach Junior High School Students how to type. I don’t mean proper technique or touch-typing, I mean /how to use a keyboard/.
 
 #+begin_center

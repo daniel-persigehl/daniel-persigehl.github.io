@@ -1,0 +1,6 @@
+#+TITLE: Personal Blog Archive
+#+macro: ruby @@html:<ruby> $1<rp>(</rp><rt>$2</rt><rp>)</rp></ruby>@@@@latex:\ruby{$1}{$2}@@
+
+This is a list of my short-form personal blog entries.
+
+

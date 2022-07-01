@@ -1,27 +1,33 @@
 #+TITLE: The Karaoke Method^{TM} of Language Acquisition
 #+macro: ruby @@html:<ruby> $1<rp>(</rp><rt>$2</rt><rp>)</rp></ruby>@@@@latex:\ruby{$1}{$2}@@
 * Rock It, Man!
-I was watching Netflix original series "Away" when in episode 3, Mei takes Lu to a karaoke bar (read the recap [[https://www.vulture.com/article/away-episode-three-season-one-recap-half-the-sky.html][here]]).  Lu is initially skeptical and is hesitant to try it out, but when she sees Mei pouring her heart out to Elton John's "Rocket Man," she decides to give it a shot.
-
-By the end, she's singing about her "Achy Breaky Heart."
+I was watching Netflix original series "Away" when in episode 3, the experienced Chinese-NASA liason Mei takes the fresh-off-the-boat Chinese astronaut Lu to a karaoke bar to help her learn English (read the recap [[https://www.vulture.com/article/away-episode-three-season-one-recap-half-the-sky.html][here]]).  Lu is initially skeptical and is hesitant to try it out, but when she sees Mei pouring her heart out to Elton John's "Rocket Man," she decides to give it a shot.  By the end, she's singing earnestly about her "Achy Breaky Heart."
 
 As I was watching, I was like "This mirrors my experience exactly."
+
+When I first came to Japan, I knew virtually no Japanese.  I had taken a semester or two in college, but that only teaches the barest of bones language skills.  I could survive, but trying to hold a conversation beyond "What sports do you like?" was flat-out impossible.  However, I quickly found my outlet at work karaoke parties.  My coworkers were quite shocked when their shy, quiet coworker began hogging the mic and belting out power ballads.
 #+begin_center
 yt:q09Gs6e5XVI yt:2pySD94Q1Yw
 
 "YOKAZE" by {{{ruby(変態,Hentai)}}}{{{ruby(紳士,Shinshi)}}}{{{ruby(クラブ,Club)}}}.  Left: MV; Right: {{{ruby(カラオケ,karaoke)}}} version.
 #+end_center
 
-It is great for testing yourself on speed-reading as well as teaching vocabulary.  Japanese songs usually (though not always) provide {{{ruby(振,ふ)}}}り{{{ruby(仮名,がな)}}} (/furigana/, "pronunciation guides") for their lyrics, so you'll quickly learn new kanji.
+It is great for testing yourself on speed-reading as well as teaching vocabulary, particularly slang.  Japanese songs usually (though not always) provide {{{ruby(振,ふ)}}}り{{{ruby(仮名,がな)}}} (/furigana/, "pronunciation guides") for their lyrics, so you'll quickly learn new kanji.
 
-Being one of the only English speakers on a {{{ruby(離島,ritō)}}} (remote island) has been good for my Japanese (though apparently I've developed a [[https://www.youtube.com/p1RRIBLTP-Y][hick accent]]) as I'm fully immersed in the language day in and day out.  Besides immersion, however, the next best thing for my Japanese has been singing.  I sing in three choirs: the community choir, the local church choir, and take a folk music class.  And, on top of that, I hog the mic whenever work parties take me to a karaoke joint.
+Being one of the only English speakers on a {{{ruby(離島,ritō)}}} (remote island) has been good for my Japanese (though apparently I've developed a [[https://www.youtube.com/p1RRIBLTP-Y][hick accent]]) as I'm fully immersed in the language day in and day out.  Besides immersion, however, the next best thing for my Japanese has been singing.  I sing in three choirs: the community choir, the local church choir, and take a folk music class.  And, on top of that, the aforementioned karaoke outings.
+
+There are two particularly popular genres of songs for singing at karaoke: Pop/Rock songs, and Enka.
+
+Pop/Rock is a pretty broad category in Japan.  It includes not just J-ROCK and J-POP (Japanese Rock/Pop), but also K-POP (Korean songs, which often have Japanese versions) and English Pop songs.
+
+Enka, in contrast, is the Japanese equivalent of a power ballad.  It is a fusion of traditional Japanese music with Western-style pop.  They are brooding, slow, but feature powerful vocals.  They are also relatively constrained stylistically and most songs follow the traditional Japanese pentatonic scale.  I quite enjoy /enka/, but most songs blend together in my mind.
 #+begin_center
 [[yt:ojSMIdcCcdI]]
 
 「{{{ruby(残酷,Zankoku)}}}{{{ruby(な,na)}}}{{{ruby(天使,Tenshi)}}}{{{ruby(の,no)}}}{{{ruby(テーゼ,Tēze)}}}」 ("Cruel Angel's Thesis"), the all-time karaoke classic.  For a sing-along version, [[https://www.youtube.com/watch?v=o6wtDPVkKqI][click here]]  (enable Japanese-language subtitles).
 #+end_center
 
-Asian-style karaoke joints are usually a karaoke box, but many bars, "/snack bars/" (i.e. hostess bars) in particular, also have karaoke as an attraction.
+Asian-style karaoke joints are usually a karaoke box, but many bars, "/snack bars/" (i.e. hostess bars) in particular, also have karaoke as an attraction.  Whether you're sining with friends in a private box, or with the regulars at a bar, it always makes for a great outing.
 
 If this has whet your appetite for singing, it may be time to level up:
 * Singing in Chorus

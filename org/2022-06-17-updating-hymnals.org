@@ -1,0 +1,39 @@
+#+title: Updating Hymnals
+#+macro: ruby @@html:<ruby> $1<rp>(</rp><rt>$2</rt><rp>)</rp></ruby>@@@@latex:\ruby{$1}{$2}@@
+At choir practice this past Tuesday, I proposed that we rehearse singing the Nicene creed, to which the other members said that the Latin chant was too difficult and long to be practical.  I scratched my head and said "No, I mean the Japanese one," as I flipped open my hymnal to the proper page and showed them.
+
+Then they opened theirs and there was only the Apostle's Creed.  I then turned to the organist and asked her to find it in the accompaniment book.  "I've practiced the accompaniment, I know it's in there!"
+
+Again, only the Apostle's Creed.
+
+So it turns out I had a newer edition of the same hymnal.  Which is not surprising, as I had bought it only two years ago, and I'd only bought the organist book last month when I visited Nagasaki and raided the Archdiocesan bookstore.
+
+This also wasn't the first time this had come up.  Although I believe the Missal is more or less the same as it was when first translated in the 70's, specific parts had been updated, particularly the Ordinary.  The Lord's Prayer in the hymnals and organist's book is the older setting, so everyone had simply memorized the newer one by rote memorization.  In addition, the melody of a hymn or psalm tone will occasionally be slightly different in the accompaniment book and the hymnals.
+
+So, I simply went to the FamilyMart to make copies using my edition.  Of course, the Japanese books are of an unusual layout, having been bound as a horizontal {{{ruby(横本,yokohon)}}} edition, so I had to stitch the copies together.
+
+Starting in Advent of this year, the Japanese Missal will be extensively revised, which means the hymnals will be out of date.  In particular, the Ordinary, with the exception of the Creed and Lord's Prayer will be changed.  One notable change is the Kyrie.  Before, it was the following:
+
+#+begin_center
+℣: {{{ruby(主,shu)}}}/{{{ruby(キリスト,Kirisuto)}}} {{{ruby(よ,yo)}}}、{{{ruby(あわれみ,awaremi)}}}{{{ruby(たまえ,tamae)}}}.
+℟: {{{ruby(主,shu)}}}/{{{ruby(キリスト,Kirisuto)}}} {{{ruby(よ,yo)}}}、{{{ruby(あわれみ,awaremi)}}}{{{ruby(たまえ,tamae)}}}.
+(Lord/Christ, have mercy)
+#+end_center
+
+But in the revised form:
+#+begin_center
+(A)
+℣: {{{ruby(主,shu)}}}/{{{ruby(キリスト,Kirisuto)}}} {{{ruby(よ,yo)}}}, {{{ruby(いつくしみ,itsukushimi)}}} {{{ruby(を,wo)}}}.
+℟: {{{ruby(主,shu)}}}/{{{ruby(キリスト,Kirisuto)}}} {{{ruby(よ,yo)}}}, {{{ruby(いつくしみ,itsukushimi)}}} {{{ruby(を,wo)}}} {{{ruby(私,watashi)}}}{{{ruby(たち,tachi)}}}{{{ruby(に,ni)}}}.
+(Lord/Christ, have compassion toward us)
+
+(B)
+℣: Kyrie/Christe Eleison.
+℟: Kyrie/Christe Eleison.
+#+end_center
+
+My Japanese is not so good that I can figure out the difference in connotations, but it appears to be focusing on God as a loving parent than a merciful judge.  What's more striking to me is that the call and response are asymmetrical.  This means that the musical settings have to be composed anew rather than adjusted.  However, they have explicitly added "Kyrie Eleison" as an option in the new hymnal.
+
+One of the comments I have been /constantly/ hearing about the liturgy is that the Japanese is very difficult for contemporary Japanese.  The use of poetic forms like "{{{ruby(たまえ,tamae)}}}" rather than "{{{ruby(ください,kudasai)}}}," "{{{ruby(我ら,warera)}}}" instead of "{{{ruby(私たち,watashi-tachi)}}}," or "{{{ruby(者,mono)}}}" instead of "{{{ruby(人,hito)}}}" is perhaps akin to the archaisms of the KJV which were intentionally archaic even when the translation was first written.  As a foreigner, I learned these Japanese forms as I was learning the colloquial language so I don't have a sense of how it sounds to a native speaker.  All the -eth's, -est's, thee's, and thou's of the KJV might not seem unusual to someone learning English ("It's just another quirk of English") but can strike a native speaker as antiquated.  So, for my part, I am a bit sad that the poetic forms are being phased out, but I definitely understand the logic behind it.  I'm also amused that in the English liturgy, we went from "And also with you" to "And with your spirit," whereas the Japanese are going from {{{ruby(また,mata)}}}、{{{ruby(司祭,shisai)}}}{{{ruby(と,to)}}}{{{ruby(友,tomo)}}}{{{ruby(に,ni)}}}("And also with the priest") to {{{ruby(また,mata)}}}、{{{ruby(あなた,anata)}}}{{{ruby(と,to)}}}{{{ruby(友,tomo)}}}{{{ruby(に,ni)}}}("And also with you")
+
+Still, the more I learn about the Japanese liturgy, the more excited I am to work with my church choir to make it even more beautiful!

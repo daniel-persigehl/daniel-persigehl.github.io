@@ -1,4 +1,5 @@
 #+TITLE: Transcribing Diacritics
+#+macro: ruby @@html:<ruby> $1<rp>(</rp><rt>$2</rt><rp>)</rp></ruby>@@@@latex:\ruby{$1}{$2}@@
 * Transcribing diacritics
 I’ve been transcribing several Latin documents into a plaintext format and have run into the problem of obscure letters and diacritic marks.  OCR technology (Optical Character Recognition) has been a great help, but the Latin language corpus it was trained on does not feature diacritics aside from the acute, grave, or circumflex.
 
